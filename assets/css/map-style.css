@@ -1,7 +1,7 @@
 @import 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
 @import 'https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css';
 @import 'https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css';
-@import '/assets/css/leaflet-spinner.css';
+@import './assets/css/leaflet-spinner.css';
 
 html,
 body,
