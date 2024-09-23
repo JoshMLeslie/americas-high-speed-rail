@@ -187,7 +187,7 @@ const initSoftRegions = async map => {
 
 /** data from https://gadm.org/download_country.html */
 const loadGeojsonBounds = country => async useLayer => {
-	const path = `/assets/js/geojson/${country}-state-bounds_${useLayer}.json`;
+	const path = `./assets/js/geojson/${country}-state-bounds_${useLayer}.json`;
 	return fetchJSON(path)
 		.then(d =>
 			L.geoJson(d, {
