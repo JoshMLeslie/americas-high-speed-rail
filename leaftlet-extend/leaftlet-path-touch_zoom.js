@@ -1,3 +1,5 @@
+/* global L:readonly */
+
 'use strict';
 
 /*
@@ -9,7 +11,7 @@
 L.Path.mergeOptions({
 	// @option zoomable: Boolean = false
 	// Whether the element (Path) is zoomable or not
-	zoomable: false;
+	zoomable: false,
 	
 	// @option wheelDebounceTime: Number = 40
 	// Limits the rate at which a wheel can fire (in milliseconds). By default

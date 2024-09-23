@@ -1,3 +1,5 @@
+/* global L:readonly */
+
 'use strict';
 
 /*

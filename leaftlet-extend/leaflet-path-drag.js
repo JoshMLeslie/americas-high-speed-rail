@@ -1,3 +1,5 @@
+/* global L:readonly */
+
 // via https://github.com/Leaflet/Path.Drag.js/blob/gh-pages/src/Path.Drag.js
 
 'use strict';
