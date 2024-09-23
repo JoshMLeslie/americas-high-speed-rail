@@ -453,17 +453,19 @@ function initStateRoutes(map) {
 	stateSelectorEnter.onclick = () => {
 		const selectedStateName = abbreviatedStateToName[selectedStateAbrv];
 		let stateZone;
-		if (selectedCountry === 'USA') {
-			if (['CT', 'PA', 'NY'].includes(selectedStateAbrv)) {
-				stateZone = ZONE_NE.filter(route =>
-					route.some(el => el.state === selectedStateName)
-				);
-			}
+		if (
+			selectedCountry === 'USA' &&
+			['CT', 'PA', 'NY'].includes(selectedStateAbrv)
+		) {
+			stateZone = ZONE_NE.filter(route =>
+				route.some(el => el.state === selectedStateName)
+			);
 			console.log(stateZone);
 		} else {
 			alert(
 				'todo: specific route for: ' + selectedCountry + ',' + selectedStateAbrv
 			);
+			return;
 		}
 		drawRegion(
 			map,
