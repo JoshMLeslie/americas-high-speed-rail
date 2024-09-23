@@ -1,7 +1,7 @@
 'use strict';
 /* global L:readonly */
 
-import {bindRegionButtonsToMap, setupBoundaryButtons} from './bind-btns.js';
+import { bindRegionButtonsToMap, setupBoundaryButtons } from './bind-btns.js';
 import {
 	HIDE_SOFT_REGION,
 	INIT_ZOOM_LEVEL,
@@ -13,15 +13,15 @@ import abbreviatedStateNames from './const/usa-states/abbreviated-state-names.mj
 import abbreviatedStateToName from './const/usa-states/abbreviated-state-to-name.mjs';
 import coords from './coords.js';
 import genCountyHeatmap from './county-heatmap.js';
-import {drawRegion} from './draw-region.js';
-import {eHIDE_CITY_LABELS, eSHOW_CITY_LABELS} from './events.js';
+import { drawRegion } from './draw-region.js';
+import { eHIDE_CITY_LABELS, eSHOW_CITY_LABELS } from './events.js';
 import initAddressLookup from './interactions/address-lookup.js';
 import initPingCoord from './interactions/ping-coord.js';
 import genMajorCityMarkers from './mapping/major-city-markers.js';
-import {fetchJSON, getBoundsForBox} from './util/index.js';
+import cloneLayer from './util/clone-layer.js';
+import { fetchJSON, getBoundsForBox } from './util/index.js';
 import CENTERS from './zones/centers.js';
 import ZONE_NE from './zones/north-east.js';
-import cloneLayer from './util/clone-layer.js';
 
 const simpleDataCache = {
 	majorCities: null,
@@ -161,10 +161,12 @@ const initSoftRegions = async map => {
 	});
 	document.addEventListener(HIDE_SOFT_REGION, ({detail}) => {
 		const softRegion = softRegions[detail];
-		if (softRegion && map.hasLayer(softRegion)) {
-			softRegion.removeFrom(map);
-		} else if (!softRegion) {
-			throw ReferenceError(`soft region DNE for '${detail}'`);
+		if (map.hasLayer(softRegion)) {
+			if (softRegion) {
+				softRegion.removeFrom(map);
+			} else {
+				throw ReferenceError(`soft region DNE for '${detail}'`);
+			}
 		}
 	});
 
@@ -353,15 +355,19 @@ const addOSMTiles = (map, mapHUD) => {
 	const layerControl = L.control.layers(baseLayers, {});
 	layerControl.addTo(map);
 	map.on('layerremove', ({layer}) => {
-		clonedLayers[layer.options.className].remove();
+		if (clonedLayers[layer.options.className]) {
+			clonedLayers[layer.options.className].remove();
+		}
 	});
 	map.on('layeradd', ({layer}) => {
-		clonedLayers[layer.options.className].addTo(mapHUD);
+		if (clonedLayers[layer.options.className]) {
+			clonedLayers[layer.options.className].addTo(mapHUD);
+		}
 	});
 };
 
-/** add layers */
-const addLayerControl = map => {};
+// /** add layers */
+// const addLayerControl = map => {};
 
 function bindCityLabelEvents() {
 	// city labels show/hide
@@ -506,7 +512,7 @@ function initSupportFunctions(map) {
 	initSoftRegions(map);
 	initStateRoutes(map);
 	initSupportDialog();
-	addLayerControl(map);
+	// addLayerControl(map);
 }
 
 /**
