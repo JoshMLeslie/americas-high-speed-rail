@@ -1,7 +1,6 @@
 {
   "scripts": {
     "setup": "npm i",
-    "build-csv": "node ./data-csv/parse-cities-csv.js",
     "add-census-pop": "node ./data-csv/update-county-bounds-with-pop.mjs",
     "start": "live-server"
   },
