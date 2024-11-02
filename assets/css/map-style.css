@@ -240,7 +240,7 @@ hr {
 	background: rgba(0, 0, 0, 0.5);
 }
 
-#lookup-location-advanced-popup {
+#lookup-location-list-popup {
 	display: block;
 	min-width: 300px;
 	max-width: 400px;
@@ -248,10 +248,10 @@ hr {
 	max-height: 600px;
 	overflow-y: auto;
 }
-#lookup-location-advanced-popup li {
+#lookup-location-list-popup li {
 	list-style-type: none;
 }
-#lookup-location-advanced-popup button {
+#lookup-location-list-popup button {
 	padding: 8px 16px;
 }
 
@@ -281,11 +281,20 @@ hr {
 .input-set {
 	display: flex;
 	flex-direction: column;
-	max-width: 200px;
 }
 
+.input-set button {
+ padding: 4px 8px;
+}
+
+.input-actions-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px;
+}
 .input-actions {
 	display: flex;
+	gap: 8px;
 }
 
 @container (max-width: 320px) {
@@ -300,7 +309,6 @@ hr {
 		width: 100%;
 	}
 }
-
 
 @media screen and (min-width: 1400px) {
 	#map-container {

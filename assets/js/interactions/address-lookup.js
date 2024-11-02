@@ -52,7 +52,7 @@ export default function initAddressLookup(map) {
 		locationInput.value = '';
 	};
 	const popupContainer = document.querySelector('#popup-container');
-	document.querySelector('#lookup-location-advanced').onclick = async () => {
+	document.querySelector('#lookup-location-list').onclick = async () => {
 		try {
 			const query = locationInput.value;
 			locationInput.value = 'Loading';
@@ -61,7 +61,7 @@ export default function initAddressLookup(map) {
 				popupContainer.classList.toggle('hidden');
 				locationInput.value = 'Select an option';
 				const list = document.createElement('ul');
-				list.id = 'lookup-location-advanced-popup';
+				list.id = 'lookup-location-list-popup';
 				results.forEach(r => {
 					const li = document.createElement('li');
 					const btn = document.createElement('button');
