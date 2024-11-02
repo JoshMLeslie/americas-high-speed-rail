@@ -2,7 +2,8 @@
   "scripts": {
     "setup": "npm i",
     "build-csv": "node ./data-csv/parse-cities-csv.js",
-    "add-census-pop": "node ./data-csv/update-county-bounds-with-pop.mjs"
+    "add-census-pop": "node ./data-csv/update-county-bounds-with-pop.mjs",
+    "start": "live-server"
   },
   "devDependencies": {
     "@eslint/js": "^9.4.0",
@@ -10,6 +11,7 @@
     "csv-parser": "^3.0.0",
     "eslint": "^9.4.0",
     "globals": "^15.3.0",
+    "live-server": "^1.2.2",
     "xlsx": "^0.18.5"
   }
 }
