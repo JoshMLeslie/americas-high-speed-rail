@@ -27,6 +27,9 @@ export default async function genMajorCityMarkers(map) {
 	if (!data || !data.length) {
 		throw ReferenceError('missing CSV data');
 	}
+	if (!map) {
+		throw ReferenceError("map is missing")
+	}
 	const clusterGroup = L.markerClusterGroup();
 	data.forEach(({lat, lon, city}) => {
 		const m = drawMarker(map, [lat, lon], city, {color: 'red'});

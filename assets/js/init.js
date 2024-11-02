@@ -382,7 +382,7 @@ function bindCityLabelEvents() {
 function initMajorCities(map) {
 	const toggleMajorCities = async () => {
 		if (!simpleDataCache.majorCities) {
-			simpleDataCache.majorCities = await genMajorCityMarkers();
+			simpleDataCache.majorCities = await genMajorCityMarkers(map);
 		}
 		const {majorCities} = simpleDataCache;
 		if (map.hasLayer(majorCities)) {
