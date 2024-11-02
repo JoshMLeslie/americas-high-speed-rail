@@ -9,8 +9,8 @@
 		"landarea_km2_2020": 778.3,
 		"density_mi2_2020": 29298,
 		"density_km2_2020": 11312,
-		"location_lat": 40.66,
-		"location_lng": -73.94
+		"lat": 40.66,
+		"lon": -73.94
 	},
 	{
 		"city": "Los Angeles",
@@ -22,8 +22,8 @@
 		"landarea_km2_2020": 1216,
 		"density_mi2_2020": 8304,
 		"density_km2_2020": 3206,
-		"location_lat": 34.02,
-		"location_lng": -118.41
+		"lat": 34.02,
+		"lon": -118.41
 	},
 	{
 		"city": "Chicago",
@@ -35,8 +35,8 @@
 		"landarea_km2_2020": 589.7,
 		"density_mi2_2020": 12061,
 		"density_km2_2020": 4657,
-		"location_lat": 41.84,
-		"location_lng": -87.68
+		"lat": 41.84,
+		"lon": -87.68
 	},
 	{
 		"city": "Houston",
@@ -48,8 +48,8 @@
 		"landarea_km2_2020": 1658.6,
 		"density_mi2_2020": 3599,
 		"density_km2_2020": 1390,
-		"location_lat": 29.79,
-		"location_lng": -95.39
+		"lat": 29.79,
+		"lon": -95.39
 	},
 	{
 		"city": "Phoenix",
@@ -61,8 +61,8 @@
 		"landarea_km2_2020": 1341.6,
 		"density_mi2_2020": 3105,
 		"density_km2_2020": 1199,
-		"location_lat": 33.57,
-		"location_lng": -112.09
+		"lat": 33.57,
+		"lon": -112.09
 	},
 	{
 		"city": "Philadelphia",
@@ -74,8 +74,8 @@
 		"landarea_km2_2020": 348.1,
 		"density_mi2_2020": 11933,
 		"density_km2_2020": 4607,
-		"location_lat": 40.01,
-		"location_lng": -75.13
+		"lat": 40.01,
+		"lon": -75.13
 	},
 	{
 		"city": "San Antonio",
@@ -87,8 +87,8 @@
 		"landarea_km2_2020": 1291.9,
 		"density_mi2_2020": 2876,
 		"density_km2_2020": 1110,
-		"location_lat": 29.46,
-		"location_lng": -98.52
+		"lat": 29.46,
+		"lon": -98.52
 	},
 	{
 		"city": "San Diego",
@@ -100,8 +100,8 @@
 		"landarea_km2_2020": 844.1,
 		"density_mi2_2020": 4256,
 		"density_km2_2020": 1643,
-		"location_lat": 32.81,
-		"location_lng": -117.14
+		"lat": 32.81,
+		"lon": -117.14
 	},
 	{
 		"city": "Dallas",
@@ -113,8 +113,8 @@
 		"landarea_km2_2020": 879.6,
 		"density_mi2_2020": 3841,
 		"density_km2_2020": 1483,
-		"location_lat": 32.79,
-		"location_lng": -96.77
+		"lat": 32.79,
+		"lon": -96.77
 	},
 	{
 		"city": "Jacksonville",
@@ -126,8 +126,8 @@
 		"landarea_km2_2020": 1935.5,
 		"density_mi2_2020": 1271,
 		"density_km2_2020": 491,
-		"location_lat": 30.34,
-		"location_lng": -81.66
+		"lat": 30.34,
+		"lon": -81.66
 	},
 	{
 		"city": "Austin",
@@ -139,8 +139,8 @@
 		"landarea_km2_2020": 828.5,
 		"density_mi2_2020": 3007,
 		"density_km2_2020": 1161,
-		"location_lat": 30.3,
-		"location_lng": -97.75
+		"lat": 30.3,
+		"lon": -97.75
 	},
 	{
 		"city": "Fort Worth",
@@ -152,8 +152,8 @@
 		"landarea_km2_2020": 899.5,
 		"density_mi2_2020": 2646,
 		"density_km2_2020": 1022,
-		"location_lat": 32.78,
-		"location_lng": -97.35
+		"lat": 32.78,
+		"lon": -97.35
 	},
 	{
 		"city": "San Jose",
@@ -165,8 +165,8 @@
 		"landarea_km2_2020": 461.8,
 		"density_mi2_2020": 5683,
 		"density_km2_2020": 2194,
-		"location_lat": 37.3,
-		"location_lng": -121.81
+		"lat": 37.3,
+		"lon": -121.81
 	},
 	{
 		"city": "Columbus",
@@ -178,8 +178,8 @@
 		"landarea_km2_2020": 569.8,
 		"density_mi2_2020": 4117,
 		"density_km2_2020": 1590,
-		"location_lat": 39.99,
-		"location_lng": -82.99
+		"lat": 39.99,
+		"lon": -82.99
 	},
 	{
 		"city": "Charlotte",
@@ -191,8 +191,8 @@
 		"landarea_km2_2020": 798.5,
 		"density_mi2_2020": 2837,
 		"density_km2_2020": 1095,
-		"location_lat": 35.21,
-		"location_lng": -80.83
+		"lat": 35.21,
+		"lon": -80.83
 	},
 	{
 		"city": "Indianapolis",
@@ -204,8 +204,8 @@
 		"landarea_km2_2020": 936.5,
 		"density_mi2_2020": 2455,
 		"density_km2_2020": 948,
-		"location_lat": 39.78,
-		"location_lng": -86.15
+		"lat": 39.78,
+		"lon": -86.15
 	},
 	{
 		"city": "San Francisco",
@@ -217,8 +217,8 @@
 		"landarea_km2_2020": 121.5,
 		"density_mi2_2020": 18635,
 		"density_km2_2020": 7195,
-		"location_lat": 37.73,
-		"location_lng": -123.03
+		"lat": 37.73,
+		"lon": -123.03
 	},
 	{
 		"city": "Seattle",
@@ -230,8 +230,8 @@
 		"landarea_km2_2020": 217,
 		"density_mi2_2020": 8795,
 		"density_km2_2020": 3396,
-		"location_lat": 47.62,
-		"location_lng": -122.35
+		"lat": 47.62,
+		"lon": -122.35
 	},
 	{
 		"city": "Denver",
@@ -243,8 +243,8 @@
 		"landarea_km2_2020": 396.5,
 		"density_mi2_2020": 4674,
 		"density_km2_2020": 1805,
-		"location_lat": 39.76,
-		"location_lng": -104.88
+		"lat": 39.76,
+		"lon": -104.88
 	},
 	{
 		"city": "Oklahoma City",
@@ -256,8 +256,8 @@
 		"landarea_km2_2020": 1570.1,
 		"density_mi2_2020": 1123,
 		"density_km2_2020": 434,
-		"location_lat": 35.47,
-		"location_lng": -97.51
+		"lat": 35.47,
+		"lon": -97.51
 	},
 	{
 		"city": "Nashville",
@@ -269,8 +269,8 @@
 		"landarea_km2_2020": 1232.3,
 		"density_mi2_2020": 1449,
 		"density_km2_2020": 559,
-		"location_lat": 36.17,
-		"location_lng": -86.79
+		"lat": 36.17,
+		"lon": -86.79
 	},
 	{
 		"city": "Washington",
@@ -282,8 +282,8 @@
 		"landarea_km2_2020": 158.2,
 		"density_mi2_2020": 11286,
 		"density_km2_2020": 4358,
-		"location_lat": 38.9,
-		"location_lng": -77.02
+		"lat": 38.9,
+		"lon": -77.02
 	},
 	{
 		"city": "El Paso",
@@ -295,8 +295,8 @@
 		"landarea_km2_2020": 669.3,
 		"density_mi2_2020": 2627,
 		"density_km2_2020": 1014,
-		"location_lat": 31.85,
-		"location_lng": -106.43
+		"lat": 31.85,
+		"lon": -106.43
 	},
 	{
 		"city": "Las Vegas",
@@ -308,8 +308,8 @@
 		"landarea_km2_2020": 367.3,
 		"density_mi2_2020": 4527,
 		"density_km2_2020": 1748,
-		"location_lat": 36.23,
-		"location_lng": -115.26
+		"lat": 36.23,
+		"lon": -115.26
 	},
 	{
 		"city": "Boston",
@@ -321,8 +321,8 @@
 		"landarea_km2_2020": 125.1,
 		"density_mi2_2020": 13989,
 		"density_km2_2020": 5401,
-		"location_lat": 42.34,
-		"location_lng": -71.02
+		"lat": 42.34,
+		"lon": -71.02
 	},
 	{
 		"city": "Detroit",
@@ -334,8 +334,8 @@
 		"landarea_km2_2020": 359.2,
 		"density_mi2_2020": 4608,
 		"density_km2_2020": 1779,
-		"location_lat": 42.38,
-		"location_lng": -83.1
+		"lat": 42.38,
+		"lon": -83.1
 	},
 	{
 		"city": "Portland",
@@ -347,8 +347,8 @@
 		"landarea_km2_2020": 345.8,
 		"density_mi2_2020": 4888,
 		"density_km2_2020": 1887,
-		"location_lat": 45.54,
-		"location_lng": -122.65
+		"lat": 45.54,
+		"lon": -122.65
 	},
 	{
 		"city": "Louisville",
@@ -360,8 +360,8 @@
 		"landarea_km2_2020": 841.5,
 		"density_mi2_2020": 1948,
 		"density_km2_2020": 752,
-		"location_lat": 38.17,
-		"location_lng": -85.65
+		"lat": 38.17,
+		"lon": -85.65
 	},
 	{
 		"city": "Memphis",
@@ -373,8 +373,8 @@
 		"landarea_km2_2020": 769.2,
 		"density_mi2_2020": 2132,
 		"density_km2_2020": 823,
-		"location_lat": 35.11,
-		"location_lng": -89.97
+		"lat": 35.11,
+		"lon": -89.97
 	},
 	{
 		"city": "Baltimore",
@@ -386,8 +386,8 @@
 		"landarea_km2_2020": 209.5,
 		"density_mi2_2020": 7240,
 		"density_km2_2020": 2800,
-		"location_lat": 39.3,
-		"location_lng": -76.61
+		"lat": 39.3,
+		"lon": -76.61
 	},
 	{
 		"city": "Milwaukee",
@@ -399,8 +399,8 @@
 		"landarea_km2_2020": 249.2,
 		"density_mi2_2020": 6000,
 		"density_km2_2020": 2300,
-		"location_lat": 43.06,
-		"location_lng": -87.97
+		"lat": 43.06,
+		"lon": -87.97
 	},
 	{
 		"city": "Albuquerque",
@@ -412,8 +412,8 @@
 		"landarea_km2_2020": 485.1,
 		"density_mi2_2020": 3014,
 		"density_km2_2020": 1164,
-		"location_lat": 35.1,
-		"location_lng": -106.65
+		"lat": 35.1,
+		"lon": -106.65
 	},
 	{
 		"city": "Tucson",
@@ -425,8 +425,8 @@
 		"landarea_km2_2020": 624.2,
 		"density_mi2_2020": 2252,
 		"density_km2_2020": 870,
-		"location_lat": 32.15,
-		"location_lng": -110.87
+		"lat": 32.15,
+		"lon": -110.87
 	},
 	{
 		"city": "Fresno",
@@ -438,8 +438,8 @@
 		"landarea_km2_2020": 298.4,
 		"density_mi2_2020": 4706,
 		"density_km2_2020": 1817,
-		"location_lat": 36.78,
-		"location_lng": -119.79
+		"lat": 36.78,
+		"lon": -119.79
 	},
 	{
 		"city": "Sacramento",
@@ -451,8 +451,8 @@
 		"landarea_km2_2020": 255.4,
 		"density_mi2_2020": 5324,
 		"density_km2_2020": 2056,
-		"location_lat": 38.57,
-		"location_lng": -121.47
+		"lat": 38.57,
+		"lon": -121.47
 	},
 	{
 		"city": "Mesa",
@@ -464,8 +464,8 @@
 		"landarea_km2_2020": 359.2,
 		"density_mi2_2020": 3636,
 		"density_km2_2020": 1404,
-		"location_lat": 33.4,
-		"location_lng": -111.72
+		"lat": 33.4,
+		"lon": -111.72
 	},
 	{
 		"city": "Atlanta",
@@ -477,8 +477,8 @@
 		"landarea_km2_2020": 350.4,
 		"density_mi2_2020": 3686,
 		"density_km2_2020": 1423,
-		"location_lat": 33.76,
-		"location_lng": -84.42
+		"lat": 33.76,
+		"lon": -84.42
 	},
 	{
 		"city": "Kansas City",
@@ -490,8 +490,8 @@
 		"landarea_km2_2020": 815.1,
 		"density_mi2_2020": 1615,
 		"density_km2_2020": 624,
-		"location_lat": 39.12,
-		"location_lng": -94.56
+		"lat": 39.12,
+		"lon": -94.56
 	},
 	{
 		"city": "Colorado Springs",
@@ -503,8 +503,8 @@
 		"landarea_km2_2020": 506.1,
 		"density_mi2_2020": 2451,
 		"density_km2_2020": 946,
-		"location_lat": 38.87,
-		"location_lng": -104.76
+		"lat": 38.87,
+		"lon": -104.76
 	},
 	{
 		"city": "Omaha",
@@ -516,8 +516,8 @@
 		"landarea_km2_2020": 366.7,
 		"density_mi2_2020": 3433,
 		"density_km2_2020": 1325,
-		"location_lat": 41.26,
-		"location_lng": -96.05
+		"lat": 41.26,
+		"lon": -96.05
 	},
 	{
 		"city": "Raleigh",
@@ -529,8 +529,8 @@
 		"landarea_km2_2020": 381,
 		"density_mi2_2020": 3179,
 		"density_km2_2020": 1227,
-		"location_lat": 35.83,
-		"location_lng": -78.64
+		"lat": 35.83,
+		"lon": -78.64
 	},
 	{
 		"city": "Miami",
@@ -542,8 +542,8 @@
 		"landarea_km2_2020": 93.2,
 		"density_mi2_2020": 12284,
 		"density_km2_2020": 4743,
-		"location_lat": 25.78,
-		"location_lng": -80.21
+		"lat": 25.78,
+		"lon": -80.21
 	},
 	{
 		"city": "Virginia Beach",
@@ -555,8 +555,8 @@
 		"landarea_km2_2020": 633.8,
 		"density_mi2_2020": 1878,
 		"density_km2_2020": 725,
-		"location_lat": 36.78,
-		"location_lng": -76.03
+		"lat": 36.78,
+		"lon": -76.03
 	},
 	{
 		"city": "Long Beach",
@@ -568,8 +568,8 @@
 		"landarea_km2_2020": 131.3,
 		"density_mi2_2020": 9206,
 		"density_km2_2020": 3554,
-		"location_lat": 33.78,
-		"location_lng": -118.17
+		"lat": 33.78,
+		"lon": -118.17
 	},
 	{
 		"city": "Oakland",
@@ -581,8 +581,8 @@
 		"landarea_km2_2020": 144.8,
 		"density_mi2_2020": 7883,
 		"density_km2_2020": 3044,
-		"location_lat": 37.77,
-		"location_lng": -122.23
+		"lat": 37.77,
+		"lon": -122.23
 	},
 	{
 		"city": "Minneapolis",
@@ -594,8 +594,8 @@
 		"landarea_km2_2020": 139.9,
 		"density_mi2_2020": 7962,
 		"density_km2_2020": 3074,
-		"location_lat": 44.96,
-		"location_lng": -93.27
+		"lat": 44.96,
+		"lon": -93.27
 	},
 	{
 		"city": "Bakersfield",
@@ -607,8 +607,8 @@
 		"landarea_km2_2020": 388,
 		"density_mi2_2020": 2693,
 		"density_km2_2020": 1040,
-		"location_lat": 35.35,
-		"location_lng": -119.04
+		"lat": 35.35,
+		"lon": -119.04
 	},
 	{
 		"city": "Tulsa",
@@ -620,8 +620,8 @@
 		"landarea_km2_2020": 511.5,
 		"density_mi2_2020": 2091,
 		"density_km2_2020": 807,
-		"location_lat": 36.13,
-		"location_lng": -95.9
+		"lat": 36.13,
+		"lon": -95.9
 	},
 	{
 		"city": "Tampa",
@@ -633,8 +633,8 @@
 		"landarea_km2_2020": 295.3,
 		"density_mi2_2020": 3377,
 		"density_km2_2020": 1304,
-		"location_lat": 27.97,
-		"location_lng": -82.47
+		"lat": 27.97,
+		"lon": -82.47
 	},
 	{
 		"city": "Arlington",
@@ -646,8 +646,8 @@
 		"landarea_km2_2020": 248.4,
 		"density_mi2_2020": 4111,
 		"density_km2_2020": 1587,
-		"location_lat": 32.7,
-		"location_lng": -97.12
+		"lat": 32.7,
+		"lon": -97.12
 	},
 	{
 		"city": "Wichita",
@@ -659,8 +659,8 @@
 		"landarea_km2_2020": 419.6,
 		"density_mi2_2020": 2454,
 		"density_km2_2020": 947,
-		"location_lat": 37.69,
-		"location_lng": -97.35
+		"lat": 37.69,
+		"lon": -97.35
 	},
 	{
 		"city": "Aurora",
@@ -672,8 +672,8 @@
 		"landarea_km2_2020": 414.7,
 		"density_mi2_2020": 2413,
 		"density_km2_2020": 932,
-		"location_lat": 39.7,
-		"location_lng": -104.72
+		"lat": 39.7,
+		"lon": -104.72
 	},
 	{
 		"city": "New Orleans",
@@ -685,8 +685,8 @@
 		"landarea_km2_2020": 439,
 		"density_mi2_2020": 2265,
 		"density_km2_2020": 875,
-		"location_lat": 30.05,
-		"location_lng": -89.93
+		"lat": 30.05,
+		"lon": -89.93
 	},
 	{
 		"city": "Cleveland",
@@ -698,8 +698,8 @@
 		"landarea_km2_2020": 201.2,
 		"density_mi2_2020": 4796,
 		"density_km2_2020": 1852,
-		"location_lat": 41.48,
-		"location_lng": -81.68
+		"lat": 41.48,
+		"lon": -81.68
 	},
 	{
 		"city": "Honolulu",
@@ -711,8 +711,8 @@
 		"landarea_km2_2020": 156.7,
 		"density_mi2_2020": 5801,
 		"density_km2_2020": 2240,
-		"location_lat": 21.32,
-		"location_lng": -157.85
+		"lat": 21.32,
+		"lon": -157.85
 	},
 	{
 		"city": "Anaheim",
@@ -724,8 +724,8 @@
 		"landarea_km2_2020": 130.3,
 		"density_mi2_2020": 6895,
 		"density_km2_2020": 2662,
-		"location_lat": 33.86,
-		"location_lng": -117.76
+		"lat": 33.86,
+		"lon": -117.76
 	},
 	{
 		"city": "Henderson",
@@ -737,8 +737,8 @@
 		"landarea_km2_2020": 275.1,
 		"density_mi2_2020": 2991,
 		"density_km2_2020": 1155,
-		"location_lat": 36.01,
-		"location_lng": -115.04
+		"lat": 36.01,
+		"lon": -115.04
 	},
 	{
 		"city": "Orlando",
@@ -750,8 +750,8 @@
 		"landarea_km2_2020": 286.5,
 		"density_mi2_2020": 2781,
 		"density_km2_2020": 1074,
-		"location_lat": 28.41,
-		"location_lng": -81.25
+		"lat": 28.41,
+		"lon": -81.25
 	},
 	{
 		"city": "Lexington",
@@ -763,8 +763,8 @@
 		"landarea_km2_2020": 734.5,
 		"density_mi2_2020": 1137,
 		"density_km2_2020": 439,
-		"location_lat": 38.04,
-		"location_lng": -84.46
+		"lat": 38.04,
+		"lon": -84.46
 	},
 	{
 		"city": "Stockton",
@@ -776,8 +776,8 @@
 		"landarea_km2_2020": 161.1,
 		"density_mi2_2020": 5158,
 		"density_km2_2020": 1992,
-		"location_lat": 37.98,
-		"location_lng": -121.31
+		"lat": 37.98,
+		"lon": -121.31
 	},
 	{
 		"city": "Riverside",
@@ -789,8 +789,8 @@
 		"landarea_km2_2020": 210.3,
 		"density_mi2_2020": 3879,
 		"density_km2_2020": 1498,
-		"location_lat": 33.94,
-		"location_lng": -117.39
+		"lat": 33.94,
+		"lon": -117.39
 	},
 	{
 		"city": "Corpus Christi",
@@ -802,8 +802,8 @@
 		"landarea_km2_2020": 420.1,
 		"density_mi2_2020": 1960,
 		"density_km2_2020": 760,
-		"location_lat": 27.75,
-		"location_lng": -97.17
+		"lat": 27.75,
+		"lon": -97.17
 	},
 	{
 		"city": "Irvine",
@@ -815,8 +815,8 @@
 		"landarea_km2_2020": 169.9,
 		"density_mi2_2020": 4690,
 		"density_km2_2020": 1810,
-		"location_lat": 33.68,
-		"location_lng": -117.77
+		"lat": 33.68,
+		"lon": -117.77
 	},
 	{
 		"city": "Cincinnati",
@@ -828,8 +828,8 @@
 		"landarea_km2_2020": 201.5,
 		"density_mi2_2020": 3976,
 		"density_km2_2020": 1535,
-		"location_lat": 39.14,
-		"location_lng": -84.51
+		"lat": 39.14,
+		"lon": -84.51
 	},
 	{
 		"city": "Santa Ana",
@@ -841,8 +841,8 @@
 		"landarea_km2_2020": 70.7,
 		"density_mi2_2020": 11364,
 		"density_km2_2020": 4388,
-		"location_lat": 33.74,
-		"location_lng": -117.88
+		"lat": 33.74,
+		"lon": -117.88
 	},
 	{
 		"city": "Newark",
@@ -854,8 +854,8 @@
 		"landarea_km2_2020": 62.4,
 		"density_mi2_2020": 12927,
 		"density_km2_2020": 4991,
-		"location_lat": 40.72,
-		"location_lng": -74.17
+		"lat": 40.72,
+		"lon": -74.17
 	},
 	{
 		"city": "Saint Paul",
@@ -867,8 +867,8 @@
 		"landarea_km2_2020": 134.7,
 		"density_mi2_2020": 5991,
 		"density_km2_2020": 2313,
-		"location_lat": 44.95,
-		"location_lng": -93.1
+		"lat": 44.95,
+		"lon": -93.1
 	},
 	{
 		"city": "Pittsburgh",
@@ -880,8 +880,8 @@
 		"landarea_km2_2020": 143.5,
 		"density_mi2_2020": 5469,
 		"density_km2_2020": 2112,
-		"location_lat": 40.44,
-		"location_lng": -79.98
+		"lat": 40.44,
+		"lon": -79.98
 	},
 	{
 		"city": "Greensboro",
@@ -893,8 +893,8 @@
 		"landarea_km2_2020": 335.7,
 		"density_mi2_2020": 2307,
 		"density_km2_2020": 891,
-		"location_lat": 36.1,
-		"location_lng": -79.83
+		"lat": 36.1,
+		"lon": -79.83
 	},
 	{
 		"city": "Durham",
@@ -906,8 +906,8 @@
 		"landarea_km2_2020": 292.2,
 		"density_mi2_2020": 2513,
 		"density_km2_2020": 970,
-		"location_lat": 35.98,
-		"location_lng": -78.9
+		"lat": 35.98,
+		"lon": -78.9
 	},
 	{
 		"city": "Lincoln",
@@ -919,8 +919,8 @@
 		"landarea_km2_2020": 253,
 		"density_mi2_2020": 2979,
 		"density_km2_2020": 1150,
-		"location_lat": 40.81,
-		"location_lng": -96.68
+		"lat": 40.81,
+		"lon": -96.68
 	},
 	{
 		"city": "Jersey City",
@@ -932,8 +932,8 @@
 		"landarea_km2_2020": 38.1,
 		"density_mi2_2020": 19894,
 		"density_km2_2020": 7681,
-		"location_lat": 40.71,
-		"location_lng": -74.06
+		"lat": 40.71,
+		"lon": -74.06
 	},
 	{
 		"city": "Plano",
@@ -945,8 +945,8 @@
 		"landarea_km2_2020": 185.7,
 		"density_mi2_2020": 3982,
 		"density_km2_2020": 1537,
-		"location_lat": 33.05,
-		"location_lng": -96.75
+		"lat": 33.05,
+		"lon": -96.75
 	},
 	{
 		"city": "Anchorage",
@@ -958,8 +958,8 @@
 		"landarea_km2_2020": 4420.6,
 		"density_mi2_2020": 171,
 		"density_km2_2020": 66,
-		"location_lat": 61.17,
-		"location_lng": -149.28
+		"lat": 61.17,
+		"lon": -149.28
 	},
 	{
 		"city": "North Las Vegas",
@@ -971,8 +971,8 @@
 		"landarea_km2_2020": 262.4,
 		"density_mi2_2020": 2592,
 		"density_km2_2020": 1001,
-		"location_lat": 36.28,
-		"location_lng": -115.09
+		"lat": 36.28,
+		"lon": -115.09
 	},
 	{
 		"city": "St. Louis",
@@ -984,8 +984,8 @@
 		"landarea_km2_2020": 159.8,
 		"density_mi2_2020": 4888,
 		"density_km2_2020": 1887,
-		"location_lat": 38.64,
-		"location_lng": -90.24
+		"lat": 38.64,
+		"lon": -90.24
 	},
 	{
 		"city": "Madison",
@@ -997,8 +997,8 @@
 		"landarea_km2_2020": 206.2,
 		"density_mi2_2020": 3390,
 		"density_km2_2020": 1310,
-		"location_lat": 43.09,
-		"location_lng": -89.43
+		"lat": 43.09,
+		"lon": -89.43
 	},
 	{
 		"city": "Chandler",
@@ -1010,8 +1010,8 @@
 		"landarea_km2_2020": 169.1,
 		"density_mi2_2020": 4226,
 		"density_km2_2020": 1632,
-		"location_lat": 33.28,
-		"location_lng": -111.85
+		"lat": 33.28,
+		"lon": -111.85
 	},
 	{
 		"city": "Gilbert",
@@ -1023,8 +1023,8 @@
 		"landarea_km2_2020": 177.7,
 		"density_mi2_2020": 3906,
 		"density_km2_2020": 1508,
-		"location_lat": 33.31,
-		"location_lng": -111.74
+		"lat": 33.31,
+		"lon": -111.74
 	},
 	{
 		"city": "Reno",
@@ -1036,8 +1036,8 @@
 		"landarea_km2_2020": 281.8,
 		"density_mi2_2020": 2428,
 		"density_km2_2020": 937,
-		"location_lat": 39.55,
-		"location_lng": -119.85
+		"lat": 39.55,
+		"lon": -119.85
 	},
 	{
 		"city": "Buffalo",
@@ -1049,8 +1049,8 @@
 		"landarea_km2_2020": 104.6,
 		"density_mi2_2020": 6890,
 		"density_km2_2020": 2660,
-		"location_lat": 42.89,
-		"location_lng": -78.86
+		"lat": 42.89,
+		"lon": -78.86
 	},
 	{
 		"city": "Chula Vista",
@@ -1062,8 +1062,8 @@
 		"landarea_km2_2020": 128.5,
 		"density_mi2_2020": 5554,
 		"density_km2_2020": 2144,
-		"location_lat": 32.63,
-		"location_lng": -117.02
+		"lat": 32.63,
+		"lon": -117.02
 	},
 	{
 		"city": "Fort Wayne",
@@ -1075,8 +1075,8 @@
 		"landarea_km2_2020": 286.7,
 		"density_mi2_2020": 2384,
 		"density_km2_2020": 920,
-		"location_lat": 41.09,
-		"location_lng": -85.14
+		"lat": 41.09,
+		"lon": -85.14
 	},
 	{
 		"city": "Lubbock",
@@ -1088,8 +1088,8 @@
 		"landarea_km2_2020": 348.6,
 		"density_mi2_2020": 1910,
 		"density_km2_2020": 740,
-		"location_lat": 33.57,
-		"location_lng": -101.89
+		"lat": 33.57,
+		"lon": -101.89
 	},
 	{
 		"city": "Toledo",
@@ -1101,8 +1101,8 @@
 		"landarea_km2_2020": 208.5,
 		"density_mi2_2020": 3365,
 		"density_km2_2020": 1299,
-		"location_lat": 41.66,
-		"location_lng": -83.58
+		"lat": 41.66,
+		"lon": -83.58
 	},
 	{
 		"city": "St. Petersburg",
@@ -1114,8 +1114,8 @@
 		"landarea_km2_2020": 160.1,
 		"density_mi2_2020": 4180,
 		"density_km2_2020": 1610,
-		"location_lat": 27.77,
-		"location_lng": -82.64
+		"lat": 27.77,
+		"lon": -82.64
 	},
 	{
 		"city": "Laredo",
@@ -1127,8 +1127,8 @@
 		"landarea_km2_2020": 275.8,
 		"density_mi2_2020": 2396,
 		"density_km2_2020": 925,
-		"location_lat": 27.56,
-		"location_lng": -99.49
+		"lat": 27.56,
+		"lon": -99.49
 	},
 	{
 		"city": "Irving",
@@ -1140,8 +1140,8 @@
 		"landarea_km2_2020": 173.5,
 		"density_mi2_2020": 3831,
 		"density_km2_2020": 1479,
-		"location_lat": 32.86,
-		"location_lng": -96.97
+		"lat": 32.86,
+		"lon": -96.97
 	},
 	{
 		"city": "Chesapeake",
@@ -1153,8 +1153,8 @@
 		"landarea_km2_2020": 876.7,
 		"density_mi2_2020": 737,
 		"density_km2_2020": 285,
-		"location_lat": 36.68,
-		"location_lng": -76.3
+		"lat": 36.68,
+		"lon": -76.3
 	},
 	{
 		"city": "Glendale",
@@ -1166,8 +1166,8 @@
 		"landarea_km2_2020": 159.5,
 		"density_mi2_2020": 4031,
 		"density_km2_2020": 1556,
-		"location_lat": 33.53,
-		"location_lng": -112.19
+		"lat": 33.53,
+		"lon": -112.19
 	},
 	{
 		"city": "Winston-Salem",
@@ -1179,8 +1179,8 @@
 		"landarea_km2_2020": 343.7,
 		"density_mi2_2020": 1881,
 		"density_km2_2020": 726,
-		"location_lat": 36.1,
-		"location_lng": -80.26
+		"lat": 36.1,
+		"lon": -80.26
 	},
 	{
 		"city": "Port St. Lucie",
@@ -1192,8 +1192,8 @@
 		"landarea_km2_2020": 308.7,
 		"density_mi2_2020": 1719,
 		"density_km2_2020": 664,
-		"location_lat": 27.28,
-		"location_lng": -80.39
+		"lat": 27.28,
+		"lon": -80.39
 	},
 	{
 		"city": "Scottsdale",
@@ -1205,8 +1205,8 @@
 		"landarea_km2_2020": 476.6,
 		"density_mi2_2020": 1312,
 		"density_km2_2020": 507,
-		"location_lat": 33.68,
-		"location_lng": -111.86
+		"lat": 33.68,
+		"lon": -111.86
 	},
 	{
 		"city": "Garland",
@@ -1218,8 +1218,8 @@
 		"landarea_km2_2020": 147.9,
 		"density_mi2_2020": 4309,
 		"density_km2_2020": 1664,
-		"location_lat": 32.91,
-		"location_lng": -96.63
+		"lat": 32.91,
+		"lon": -96.63
 	},
 	{
 		"city": "Boise",
@@ -1231,8 +1231,8 @@
 		"landarea_km2_2020": 217.6,
 		"density_mi2_2020": 2806,
 		"density_km2_2020": 1083,
-		"location_lat": 43.6,
-		"location_lng": -116.23
+		"lat": 43.6,
+		"lon": -116.23
 	},
 	{
 		"city": "Norfolk",
@@ -1244,8 +1244,8 @@
 		"landarea_km2_2020": 138,
 		"density_mi2_2020": 4465,
 		"density_km2_2020": 1724,
-		"location_lat": 36.92,
-		"location_lng": -76.24
+		"lat": 36.92,
+		"lon": -76.24
 	},
 	{
 		"city": "Spokane",
@@ -1257,8 +1257,8 @@
 		"landarea_km2_2020": 178.2,
 		"density_mi2_2020": 3328,
 		"density_km2_2020": 1285,
-		"location_lat": 47.67,
-		"location_lng": -117.43
+		"lat": 47.67,
+		"lon": -117.43
 	},
 	{
 		"city": "Richmond",
@@ -1270,8 +1270,8 @@
 		"landarea_km2_2020": 155.1,
 		"density_mi2_2020": 3783,
 		"density_km2_2020": 1461,
-		"location_lat": 37.53,
-		"location_lng": -77.48
+		"lat": 37.53,
+		"lon": -77.48
 	},
 	{
 		"city": "Fremont",
@@ -1283,8 +1283,8 @@
 		"landarea_km2_2020": 202.8,
 		"density_mi2_2020": 2944,
 		"density_km2_2020": 1137,
-		"location_lat": 37.49,
-		"location_lng": -121.94
+		"lat": 37.49,
+		"lon": -121.94
 	},
 	{
 		"city": "Huntsville",
@@ -1296,8 +1296,8 @@
 		"landarea_km2_2020": 564.9,
 		"density_mi2_2020": 986,
 		"density_km2_2020": 381,
-		"location_lat": 34.78,
-		"location_lng": -86.53
+		"lat": 34.78,
+		"lon": -86.53
 	},
 	{
 		"city": "Frisco",
@@ -1309,8 +1309,8 @@
 		"landarea_km2_2020": 177.7,
 		"density_mi2_2020": 2923,
 		"density_km2_2020": 1129,
-		"location_lat": 33.16,
-		"location_lng": -96.82
+		"lat": 33.16,
+		"lon": -96.82
 	},
 	{
 		"city": "Cape Coral",
@@ -1322,8 +1322,8 @@
 		"landarea_km2_2020": 274.5,
 		"density_mi2_2020": 1830,
 		"density_km2_2020": 710,
-		"location_lat": 26.65,
-		"location_lng": -81.99
+		"lat": 26.65,
+		"lon": -81.99
 	},
 	{
 		"city": "Santa Clarita",
@@ -1335,8 +1335,8 @@
 		"landarea_km2_2020": 183.4,
 		"density_mi2_2020": 3230,
 		"density_km2_2020": 1250,
-		"location_lat": 34.41,
-		"location_lng": -118.49
+		"lat": 34.41,
+		"lon": -118.49
 	},
 	{
 		"city": "San Bernardino",
@@ -1348,8 +1348,8 @@
 		"landarea_km2_2020": 160.8,
 		"density_mi2_2020": 3577,
 		"density_km2_2020": 1381,
-		"location_lat": 34.14,
-		"location_lng": -117.29
+		"lat": 34.14,
+		"lon": -117.29
 	},
 	{
 		"city": "Tacoma",
@@ -1361,8 +1361,8 @@
 		"landarea_km2_2020": 128.7,
 		"density_mi2_2020": 4413,
 		"density_km2_2020": 1704,
-		"location_lat": 47.25,
-		"location_lng": -122.46
+		"lat": 47.25,
+		"lon": -122.46
 	},
 	{
 		"city": "Hialeah",
@@ -1374,8 +1374,8 @@
 		"landarea_km2_2020": 55.9,
 		"density_mi2_2020": 10329,
 		"density_km2_2020": 3988,
-		"location_lat": 25.87,
-		"location_lng": -80.3
+		"lat": 25.87,
+		"lon": -80.3
 	},
 	{
 		"city": "Baton Rouge",
@@ -1387,8 +1387,8 @@
 		"landarea_km2_2020": 223.5,
 		"density_mi2_2020": 2636,
 		"density_km2_2020": 1018,
-		"location_lat": 30.44,
-		"location_lng": -91.13
+		"lat": 30.44,
+		"lon": -91.13
 	},
 	{
 		"city": "Modesto",
@@ -1400,8 +1400,8 @@
 		"landarea_km2_2020": 111.4,
 		"density_mi2_2020": 5081,
 		"density_km2_2020": 1962,
-		"location_lat": 37.64,
-		"location_lng": -121.0
+		"lat": 37.64,
+		"lon": -121.0
 	},
 	{
 		"city": "Fontana",
@@ -1413,8 +1413,8 @@
 		"landarea_km2_2020": 111.6,
 		"density_mi2_2020": 4835,
 		"density_km2_2020": 1867,
-		"location_lat": 34.11,
-		"location_lng": -117.46
+		"lat": 34.11,
+		"lon": -117.46
 	},
 	{
 		"city": "McKinney",
@@ -1426,8 +1426,8 @@
 		"landarea_km2_2020": 173.5,
 		"density_mi2_2020": 2915,
 		"density_km2_2020": 1125,
-		"location_lat": 33.2,
-		"location_lng": -96.66
+		"lat": 33.2,
+		"lon": -96.66
 	},
 	{
 		"city": "Moreno Valley",
@@ -1439,8 +1439,8 @@
 		"landarea_km2_2020": 132.9,
 		"density_mi2_2020": 4067,
 		"density_km2_2020": 1570,
-		"location_lat": 33.92,
-		"location_lng": -117.21
+		"lat": 33.92,
+		"lon": -117.21
 	},
 	{
 		"city": "Des Moines",
@@ -1452,8 +1452,8 @@
 		"landarea_km2_2020": 228.4,
 		"density_mi2_2020": 2428,
 		"density_km2_2020": 937,
-		"location_lat": 41.57,
-		"location_lng": -93.61
+		"lat": 41.57,
+		"lon": -93.61
 	},
 	{
 		"city": "Fayetteville",
@@ -1465,8 +1465,8 @@
 		"landarea_km2_2020": 384.1,
 		"density_mi2_2020": 1406,
 		"density_km2_2020": 543,
-		"location_lat": 35.08,
-		"location_lng": -78.97
+		"lat": 35.08,
+		"lon": -78.97
 	},
 	{
 		"city": "Salt Lake City",
@@ -1478,8 +1478,8 @@
 		"landarea_km2_2020": 285.7,
 		"density_mi2_2020": 1811,
 		"density_km2_2020": 699,
-		"location_lat": 40.78,
-		"location_lng": -111.93
+		"lat": 40.78,
+		"lon": -111.93
 	},
 	{
 		"city": "Yonkers",
@@ -1491,8 +1491,8 @@
 		"landarea_km2_2020": 46.6,
 		"density_mi2_2020": 11754,
 		"density_km2_2020": 4538,
-		"location_lat": 40.95,
-		"location_lng": -73.87
+		"lat": 40.95,
+		"lon": -73.87
 	},
 	{
 		"city": "Worcester",
@@ -1504,8 +1504,8 @@
 		"landarea_km2_2020": 96.9,
 		"density_mi2_2020": 5522,
 		"density_km2_2020": 2132,
-		"location_lat": 42.27,
-		"location_lng": -71.81
+		"lat": 42.27,
+		"lon": -71.81
 	},
 	{
 		"city": "Rochester",
@@ -1517,8 +1517,8 @@
 		"landarea_km2_2020": 92.7,
 		"density_mi2_2020": 5903,
 		"density_km2_2020": 2279,
-		"location_lat": 43.17,
-		"location_lng": -77.62
+		"lat": 43.17,
+		"lon": -77.62
 	},
 	{
 		"city": "Sioux Falls",
@@ -1530,8 +1530,8 @@
 		"landarea_km2_2020": 204.9,
 		"density_mi2_2020": 2434,
 		"density_km2_2020": 940,
-		"location_lat": 43.54,
-		"location_lng": -96.73
+		"lat": 43.54,
+		"lon": -96.73
 	},
 	{
 		"city": "Little Rock",
@@ -1543,8 +1543,8 @@
 		"landarea_km2_2020": 310.8,
 		"density_mi2_2020": 1688,
 		"density_km2_2020": 652,
-		"location_lat": 34.72,
-		"location_lng": -92.36
+		"lat": 34.72,
+		"lon": -92.36
 	},
 	{
 		"city": "Amarillo",
@@ -1556,8 +1556,8 @@
 		"landarea_km2_2020": 265,
 		"density_mi2_2020": 1959,
 		"density_km2_2020": 756,
-		"location_lat": 35.2,
-		"location_lng": -101.83
+		"lat": 35.2,
+		"lon": -101.83
 	},
 	{
 		"city": "Tallahassee",
@@ -1569,8 +1569,8 @@
 		"landarea_km2_2020": 261.3,
 		"density_mi2_2020": 1944,
 		"density_km2_2020": 751,
-		"location_lat": 30.46,
-		"location_lng": -84.25
+		"lat": 30.46,
+		"lon": -84.25
 	},
 	{
 		"city": "Grand Prairie",
@@ -1582,8 +1582,8 @@
 		"landarea_km2_2020": 188,
 		"density_mi2_2020": 2701,
 		"density_km2_2020": 1043,
-		"location_lat": 32.69,
-		"location_lng": -97.02
+		"lat": 32.69,
+		"lon": -97.02
 	},
 	{
 		"city": "Columbus",
@@ -1595,8 +1595,8 @@
 		"landarea_km2_2020": 560.7,
 		"density_mi2_2020": 956,
 		"density_km2_2020": 369,
-		"location_lat": 32.51,
-		"location_lng": -84.87
+		"lat": 32.51,
+		"lon": -84.87
 	},
 	{
 		"city": "Augusta",
@@ -1608,8 +1608,8 @@
 		"landarea_km2_2020": 783,
 		"density_mi2_2020": 668,
 		"density_km2_2020": 258,
-		"location_lat": 33.37,
-		"location_lng": -82.07
+		"lat": 33.37,
+		"lon": -82.07
 	},
 	{
 		"city": "Peoria",
@@ -1621,8 +1621,8 @@
 		"landarea_km2_2020": 456.1,
 		"density_mi2_2020": 1085,
 		"density_km2_2020": 419,
-		"location_lat": 33.79,
-		"location_lng": -112.31
+		"lat": 33.79,
+		"lon": -112.31
 	},
 	{
 		"city": "Oxnard",
@@ -1634,8 +1634,8 @@
 		"landarea_km2_2020": 68.6,
 		"density_mi2_2020": 7625,
 		"density_km2_2020": 2944,
-		"location_lat": 34.2,
-		"location_lng": -119.21
+		"lat": 34.2,
+		"lon": -119.21
 	},
 	{
 		"city": "Knoxville",
@@ -1647,8 +1647,8 @@
 		"landarea_km2_2020": 255.6,
 		"density_mi2_2020": 1933,
 		"density_km2_2020": 746,
-		"location_lat": 35.97,
-		"location_lng": -83.95
+		"lat": 35.97,
+		"lon": -83.95
 	},
 	{
 		"city": "Overland Park",
@@ -1660,8 +1660,8 @@
 		"landarea_km2_2020": 194.8,
 		"density_mi2_2020": 2623,
 		"density_km2_2020": 1013,
-		"location_lat": 38.89,
-		"location_lng": -94.69
+		"lat": 38.89,
+		"lon": -94.69
 	},
 	{
 		"city": "Birmingham",
@@ -1673,8 +1673,8 @@
 		"landarea_km2_2020": 380.7,
 		"density_mi2_2020": 1366,
 		"density_km2_2020": 527,
-		"location_lat": 33.53,
-		"location_lng": -86.8
+		"lat": 33.53,
+		"lon": -86.8
 	},
 	{
 		"city": "Grand Rapids",
@@ -1686,8 +1686,8 @@
 		"landarea_km2_2020": 116,
 		"density_mi2_2020": 4440,
 		"density_km2_2020": 1710,
-		"location_lat": 42.96,
-		"location_lng": -85.66
+		"lat": 42.96,
+		"lon": -85.66
 	},
 	{
 		"city": "Vancouver",
@@ -1699,8 +1699,8 @@
 		"landarea_km2_2020": 126.1,
 		"density_mi2_2020": 3920,
 		"density_km2_2020": 1510,
-		"location_lat": 45.64,
-		"location_lng": -122.6
+		"lat": 45.64,
+		"lon": -122.6
 	},
 	{
 		"city": "Montgomery",
@@ -1712,8 +1712,8 @@
 		"landarea_km2_2020": 414.1,
 		"density_mi2_2020": 1255,
 		"density_km2_2020": 485,
-		"location_lat": 32.35,
-		"location_lng": -86.27
+		"lat": 32.35,
+		"lon": -86.27
 	},
 	{
 		"city": "Huntington Beach",
@@ -1725,8 +1725,8 @@
 		"landarea_km2_2020": 69.9,
 		"density_mi2_2020": 7360,
 		"density_km2_2020": 2840,
-		"location_lat": 33.7,
-		"location_lng": -118.0
+		"lat": 33.7,
+		"lon": -118.0
 	},
 	{
 		"city": "Providence",
@@ -1738,8 +1738,8 @@
 		"landarea_km2_2020": 47.7,
 		"density_mi2_2020": 10377,
 		"density_km2_2020": 4007,
-		"location_lat": 41.82,
-		"location_lng": -71.42
+		"lat": 41.82,
+		"lon": -71.42
 	},
 	{
 		"city": "Brownsville",
@@ -1751,8 +1751,8 @@
 		"landarea_km2_2020": 340.6,
 		"density_mi2_2020": 1420,
 		"density_km2_2020": 550,
-		"location_lat": 26.0,
-		"location_lng": -97.45
+		"lat": 26.0,
+		"lon": -97.45
 	},
 	{
 		"city": "Tempe",
@@ -1764,8 +1764,8 @@
 		"landarea_km2_2020": 103.3,
 		"density_mi2_2020": 4526,
 		"density_km2_2020": 1747,
-		"location_lat": 33.39,
-		"location_lng": -111.93
+		"lat": 33.39,
+		"lon": -111.93
 	},
 	{
 		"city": "Akron",
@@ -1777,8 +1777,8 @@
 		"landarea_km2_2020": 160.3,
 		"density_mi2_2020": 3077,
 		"density_km2_2020": 1188,
-		"location_lat": 41.08,
-		"location_lng": -81.52
+		"lat": 41.08,
+		"lon": -81.52
 	},
 	{
 		"city": "Glendale",
@@ -1790,8 +1790,8 @@
 		"landarea_km2_2020": 79,
 		"density_mi2_2020": 6444,
 		"density_km2_2020": 2488,
-		"location_lat": 34.18,
-		"location_lng": -118.25
+		"lat": 34.18,
+		"lon": -118.25
 	},
 	{
 		"city": "Chattanooga",
@@ -1803,8 +1803,8 @@
 		"landarea_km2_2020": 368.8,
 		"density_mi2_2020": 1272,
 		"density_km2_2020": 491,
-		"location_lat": 35.07,
-		"location_lng": -85.25
+		"lat": 35.07,
+		"lon": -85.25
 	},
 	{
 		"city": "Fort Lauderdale",
@@ -1816,8 +1816,8 @@
 		"landarea_km2_2020": 89.6,
 		"density_mi2_2020": 5282,
 		"density_km2_2020": 2039,
-		"location_lat": 26.14,
-		"location_lng": -80.15
+		"lat": 26.14,
+		"lon": -80.15
 	},
 	{
 		"city": "Newport News",
@@ -1829,8 +1829,8 @@
 		"landarea_km2_2020": 178.7,
 		"density_mi2_2020": 2699,
 		"density_km2_2020": 1042,
-		"location_lat": 37.08,
-		"location_lng": -76.52
+		"lat": 37.08,
+		"lon": -76.52
 	},
 	{
 		"city": "Mobile",
@@ -1842,8 +1842,8 @@
 		"landarea_km2_2020": 361.3,
 		"density_mi2_2020": 1341,
 		"density_km2_2020": 518,
-		"location_lat": 30.67,
-		"location_lng": -88.1
+		"lat": 30.67,
+		"lon": -88.1
 	},
 	{
 		"city": "Ontario",
@@ -1855,8 +1855,8 @@
 		"landarea_km2_2020": 129.5,
 		"density_mi2_2020": 3505,
 		"density_km2_2020": 1353,
-		"location_lat": 34.04,
-		"location_lng": -117.6
+		"lat": 34.04,
+		"lon": -117.6
 	},
 	{
 		"city": "Clarksville",
@@ -1868,8 +1868,8 @@
 		"landarea_km2_2020": 257.4,
 		"density_mi2_2020": 1677,
 		"density_km2_2020": 647,
-		"location_lat": 36.57,
-		"location_lng": -87.35
+		"lat": 36.57,
+		"lon": -87.35
 	},
 	{
 		"city": "Cary",
@@ -1881,8 +1881,8 @@
 		"landarea_km2_2020": 153.3,
 		"density_mi2_2020": 2951,
 		"density_km2_2020": 1139,
-		"location_lat": 35.78,
-		"location_lng": -78.82
+		"lat": 35.78,
+		"lon": -78.82
 	},
 	{
 		"city": "Elk Grove",
@@ -1894,8 +1894,8 @@
 		"landarea_km2_2020": 108.8,
 		"density_mi2_2020": 4193,
 		"density_km2_2020": 1619,
-		"location_lat": 38.41,
-		"location_lng": -121.38
+		"lat": 38.41,
+		"lon": -121.38
 	},
 	{
 		"city": "Shreveport",
@@ -1907,8 +1907,8 @@
 		"landarea_km2_2020": 279.2,
 		"density_mi2_2020": 1740,
 		"density_km2_2020": 670,
-		"location_lat": 32.47,
-		"location_lng": -93.79
+		"lat": 32.47,
+		"lon": -93.79
 	},
 	{
 		"city": "Eugene",
@@ -1920,8 +1920,8 @@
 		"landarea_km2_2020": 114.5,
 		"density_mi2_2020": 3997,
 		"density_km2_2020": 1543,
-		"location_lat": 44.06,
-		"location_lng": -123.12
+		"lat": 44.06,
+		"lon": -123.12
 	},
 	{
 		"city": "Aurora",
@@ -1933,8 +1933,8 @@
 		"landarea_km2_2020": 116.5,
 		"density_mi2_2020": 4012,
 		"density_km2_2020": 1549,
-		"location_lat": 41.76,
-		"location_lng": -88.29
+		"lat": 41.76,
+		"lon": -88.29
 	},
 	{
 		"city": "Salem",
@@ -1946,8 +1946,8 @@
 		"landarea_km2_2020": 126.4,
 		"density_mi2_2020": 3597,
 		"density_km2_2020": 1389,
-		"location_lat": 44.92,
-		"location_lng": -123.02
+		"lat": 44.92,
+		"lon": -123.02
 	},
 	{
 		"city": "Santa Rosa",
@@ -1959,8 +1959,8 @@
 		"landarea_km2_2020": 110.1,
 		"density_mi2_2020": 4191,
 		"density_km2_2020": 1618,
-		"location_lat": 38.45,
-		"location_lng": -122.71
+		"lat": 38.45,
+		"lon": -122.71
 	},
 	{
 		"city": "Rancho Cucamonga",
@@ -1972,8 +1972,8 @@
 		"landarea_km2_2020": 103.9,
 		"density_mi2_2020": 4350,
 		"density_km2_2020": 1680,
-		"location_lat": 34.12,
-		"location_lng": -117.56
+		"lat": 34.12,
+		"lon": -117.56
 	},
 	{
 		"city": "Pembroke Pines",
@@ -1985,8 +1985,8 @@
 		"landarea_km2_2020": 84.7,
 		"density_mi2_2020": 5235,
 		"density_km2_2020": 2021,
-		"location_lat": 26.01,
-		"location_lng": -80.34
+		"lat": 26.01,
+		"lon": -80.34
 	},
 	{
 		"city": "Fort Collins",
@@ -1998,8 +1998,8 @@
 		"landarea_km2_2020": 148.1,
 		"density_mi2_2020": 2969,
 		"density_km2_2020": 1146,
-		"location_lat": 40.55,
-		"location_lng": -105.06
+		"lat": 40.55,
+		"lon": -105.06
 	},
 	{
 		"city": "Springfield",
@@ -2011,8 +2011,8 @@
 		"landarea_km2_2020": 213.4,
 		"density_mi2_2020": 2053,
 		"density_km2_2020": 793,
-		"location_lat": 37.19,
-		"location_lng": -93.29
+		"lat": 37.19,
+		"lon": -93.29
 	},
 	{
 		"city": "Oceanside",
@@ -2024,8 +2024,8 @@
 		"landarea_km2_2020": 107,
 		"density_mi2_2020": 4215,
 		"density_km2_2020": 1627,
-		"location_lat": 33.22,
-		"location_lng": -117.31
+		"lat": 33.22,
+		"lon": -117.31
 	},
 	{
 		"city": "Garden Grove",
@@ -2037,8 +2037,8 @@
 		"landarea_km2_2020": 46.6,
 		"density_mi2_2020": 9553,
 		"density_km2_2020": 3688,
-		"location_lat": 33.78,
-		"location_lng": -117.96
+		"lat": 33.78,
+		"lon": -117.96
 	},
 	{
 		"city": "Lancaster",
@@ -2050,8 +2050,8 @@
 		"landarea_km2_2020": 244.2,
 		"density_mi2_2020": 1840,
 		"density_km2_2020": 710,
-		"location_lat": 34.69,
-		"location_lng": -118.18
+		"lat": 34.69,
+		"lon": -118.18
 	},
 	{
 		"city": "Murfreesboro",
@@ -2063,8 +2063,8 @@
 		"landarea_km2_2020": 162.9,
 		"density_mi2_2020": 2429,
 		"density_km2_2020": 938,
-		"location_lat": 35.85,
-		"location_lng": -86.42
+		"lat": 35.85,
+		"lon": -86.42
 	},
 	{
 		"city": "Palmdale",
@@ -2076,8 +2076,8 @@
 		"landarea_km2_2020": 274.8,
 		"density_mi2_2020": 1597,
 		"density_km2_2020": 617,
-		"location_lat": 34.59,
-		"location_lng": -118.11
+		"lat": 34.59,
+		"lon": -118.11
 	},
 	{
 		"city": "Corona",
@@ -2089,8 +2089,8 @@
 		"landarea_km2_2020": 103.3,
 		"density_mi2_2020": 3938,
 		"density_km2_2020": 1520,
-		"location_lat": 33.86,
-		"location_lng": -117.57
+		"lat": 33.86,
+		"lon": -117.57
 	},
 	{
 		"city": "Killeen",
@@ -2102,8 +2102,8 @@
 		"landarea_km2_2020": 141.9,
 		"density_mi2_2020": 2794,
 		"density_km2_2020": 1079,
-		"location_lat": 31.08,
-		"location_lng": -97.73
+		"lat": 31.08,
+		"lon": -97.73
 	},
 	{
 		"city": "Salinas",
@@ -2115,8 +2115,8 @@
 		"landarea_km2_2020": 60.9,
 		"density_mi2_2020": 6959,
 		"density_km2_2020": 2687,
-		"location_lat": 36.69,
-		"location_lng": -121.63
+		"lat": 36.69,
+		"lon": -121.63
 	},
 	{
 		"city": "Roseville",
@@ -2128,8 +2128,8 @@
 		"landarea_km2_2020": 114.2,
 		"density_mi2_2020": 3351,
 		"density_km2_2020": 1294,
-		"location_lat": 38.77,
-		"location_lng": -121.32
+		"lat": 38.77,
+		"lon": -121.32
 	},
 	{
 		"city": "Denton",
@@ -2141,8 +2141,8 @@
 		"landarea_km2_2020": 249.7,
 		"density_mi2_2020": 1451,
 		"density_km2_2020": 560,
-		"location_lat": 33.22,
-		"location_lng": -97.14
+		"lat": 33.22,
+		"lon": -97.14
 	},
 	{
 		"city": "Surprise",
@@ -2154,8 +2154,8 @@
 		"landarea_km2_2020": 285.7,
 		"density_mi2_2020": 1298,
 		"density_km2_2020": 501,
-		"location_lat": 33.67,
-		"location_lng": -112.45
+		"lat": 33.67,
+		"lon": -112.45
 	},
 	{
 		"city": "Macon",
@@ -2167,8 +2167,8 @@
 		"landarea_km2_2020": 645.9,
 		"density_mi2_2020": 631,
 		"density_km2_2020": 244,
-		"location_lat": 32.81,
-		"location_lng": -83.69
+		"lat": 32.81,
+		"lon": -83.69
 	},
 	{
 		"city": "Paterson",
@@ -2180,8 +2180,8 @@
 		"landarea_km2_2020": 21.8,
 		"density_mi2_2020": 19016,
 		"density_km2_2020": 7342,
-		"location_lat": 40.91,
-		"location_lng": -74.16
+		"lat": 40.91,
+		"lon": -74.16
 	},
 	{
 		"city": "Lakewood",
@@ -2193,8 +2193,8 @@
 		"landarea_km2_2020": 112.7,
 		"density_mi2_2020": 3586,
 		"density_km2_2020": 1385,
-		"location_lat": 39.7,
-		"location_lng": -105.12
+		"lat": 39.7,
+		"lon": -105.12
 	},
 	{
 		"city": "Hayward",
@@ -2206,8 +2206,8 @@
 		"landarea_km2_2020": 118.6,
 		"density_mi2_2020": 3558,
 		"density_km2_2020": 1374,
-		"location_lat": 37.63,
-		"location_lng": -122.1
+		"lat": 37.63,
+		"lon": -122.1
 	},
 	{
 		"city": "Charleston",
@@ -2219,8 +2219,8 @@
 		"landarea_km2_2020": 297.3,
 		"density_mi2_2020": 1309,
 		"density_km2_2020": 505,
-		"location_lat": 32.83,
-		"location_lng": -79.97
+		"lat": 32.83,
+		"lon": -79.97
 	},
 	{
 		"city": "Alexandria",
@@ -2232,8 +2232,8 @@
 		"landarea_km2_2020": 38.6,
 		"density_mi2_2020": 10702,
 		"density_km2_2020": 4132,
-		"location_lat": 38.82,
-		"location_lng": -77.08
+		"lat": 38.82,
+		"lon": -77.08
 	},
 	{
 		"city": "Hollywood",
@@ -2245,8 +2245,8 @@
 		"landarea_km2_2020": 70.7,
 		"density_mi2_2020": 5607,
 		"density_km2_2020": 2165,
-		"location_lat": 26.03,
-		"location_lng": -80.16
+		"lat": 26.03,
+		"lon": -80.16
 	},
 	{
 		"city": "Springfield",
@@ -2258,8 +2258,8 @@
 		"landarea_km2_2020": 82.6,
 		"density_mi2_2020": 4888,
 		"density_km2_2020": 1887,
-		"location_lat": 42.12,
-		"location_lng": -72.54
+		"lat": 42.12,
+		"lon": -72.54
 	},
 	{
 		"city": "Kansas City",
@@ -2271,8 +2271,8 @@
 		"landarea_km2_2020": 323,
 		"density_mi2_2020": 1256,
 		"density_km2_2020": 485,
-		"location_lat": 39.12,
-		"location_lng": -94.74
+		"lat": 39.12,
+		"lon": -94.74
 	},
 	{
 		"city": "Sunnyvale",
@@ -2284,8 +2284,8 @@
 		"landarea_km2_2020": 57.2,
 		"density_mi2_2020": 7050,
 		"density_km2_2020": 2720,
-		"location_lat": 37.39,
-		"location_lng": -122.03
+		"lat": 37.39,
+		"lon": -122.03
 	},
 	{
 		"city": "Bellevue",
@@ -2297,8 +2297,8 @@
 		"landarea_km2_2020": 86.8,
 		"density_mi2_2020": 4533,
 		"density_km2_2020": 1750,
-		"location_lat": 47.6,
-		"location_lng": -122.16
+		"lat": 47.6,
+		"lon": -122.16
 	},
 	{
 		"city": "Joliet",
@@ -2310,8 +2310,8 @@
 		"landarea_km2_2020": 167.1,
 		"density_mi2_2020": 2331,
 		"density_km2_2020": 900,
-		"location_lat": 41.52,
-		"location_lng": -88.15
+		"lat": 41.52,
+		"lon": -88.15
 	},
 	{
 		"city": "Naperville",
@@ -2323,8 +2323,8 @@
 		"landarea_km2_2020": 101.3,
 		"density_mi2_2020": 3825,
 		"density_km2_2020": 1477,
-		"location_lat": 41.75,
-		"location_lng": -88.16
+		"lat": 41.75,
+		"lon": -88.16
 	},
 	{
 		"city": "Escondido",
@@ -2336,8 +2336,8 @@
 		"landarea_km2_2020": 96.6,
 		"density_mi2_2020": 4049,
 		"density_km2_2020": 1563,
-		"location_lat": 33.13,
-		"location_lng": -117.07
+		"lat": 33.13,
+		"lon": -117.07
 	},
 	{
 		"city": "Bridgeport",
@@ -2349,8 +2349,8 @@
 		"landarea_km2_2020": 41.7,
 		"density_mi2_2020": 9233,
 		"density_km2_2020": 3565,
-		"location_lat": 41.19,
-		"location_lng": -73.2
+		"lat": 41.19,
+		"lon": -73.2
 	},
 	{
 		"city": "Savannah",
@@ -2362,8 +2362,8 @@
 		"landarea_km2_2020": 276.6,
 		"density_mi2_2020": 1384,
 		"density_km2_2020": 534,
-		"location_lat": 32.0,
-		"location_lng": -81.15
+		"lat": 32.0,
+		"lon": -81.15
 	},
 	{
 		"city": "Olathe",
@@ -2375,8 +2375,8 @@
 		"landarea_km2_2020": 160.3,
 		"density_mi2_2020": 2283,
 		"density_km2_2020": 881,
-		"location_lat": 38.88,
-		"location_lng": -94.82
+		"lat": 38.88,
+		"lon": -94.82
 	},
 	{
 		"city": "Mesquite",
@@ -2388,8 +2388,8 @@
 		"landarea_km2_2020": 125.6,
 		"density_mi2_2020": 3095,
 		"density_km2_2020": 1195,
-		"location_lat": 32.76,
-		"location_lng": -96.59
+		"lat": 32.76,
+		"lon": -96.59
 	},
 	{
 		"city": "Pasadena",
@@ -2401,8 +2401,8 @@
 		"landarea_km2_2020": 113.2,
 		"density_mi2_2020": 3477,
 		"density_km2_2020": 1342,
-		"location_lat": 29.65,
-		"location_lng": -95.15
+		"lat": 29.65,
+		"lon": -95.15
 	},
 	{
 		"city": "McAllen",
@@ -2414,8 +2414,8 @@
 		"landarea_km2_2020": 161.4,
 		"density_mi2_2020": 2283,
 		"density_km2_2020": 881,
-		"location_lat": 26.22,
-		"location_lng": -98.25
+		"lat": 26.22,
+		"lon": -98.25
 	},
 	{
 		"city": "Rockford",
@@ -2427,8 +2427,8 @@
 		"landarea_km2_2020": 167.1,
 		"density_mi2_2020": 2305,
 		"density_km2_2020": 890,
-		"location_lat": 42.26,
-		"location_lng": -89.06
+		"lat": 42.26,
+		"lon": -89.06
 	},
 	{
 		"city": "Gainesville",
@@ -2440,8 +2440,8 @@
 		"landarea_km2_2020": 163.7,
 		"density_mi2_2020": 2232,
 		"density_km2_2020": 862,
-		"location_lat": 29.68,
-		"location_lng": -82.35
+		"lat": 29.68,
+		"lon": -82.35
 	},
 	{
 		"city": "Syracuse",
@@ -2453,8 +2453,8 @@
 		"landarea_km2_2020": 65,
 		"density_mi2_2020": 5921,
 		"density_km2_2020": 2286,
-		"location_lat": 43.04,
-		"location_lng": -76.14
+		"lat": 43.04,
+		"lon": -76.14
 	},
 	{
 		"city": "Pomona",
@@ -2466,8 +2466,8 @@
 		"landarea_km2_2020": 59.6,
 		"density_mi2_2020": 6596,
 		"density_km2_2020": 2547,
-		"location_lat": 34.06,
-		"location_lng": -117.76
+		"lat": 34.06,
+		"lon": -117.76
 	},
 	{
 		"city": "Visalia",
@@ -2479,8 +2479,8 @@
 		"landarea_km2_2020": 98.2,
 		"density_mi2_2020": 3730,
 		"density_km2_2020": 1440,
-		"location_lat": 36.33,
-		"location_lng": -119.33
+		"lat": 36.33,
+		"lon": -119.33
 	},
 	{
 		"city": "Thornton",
@@ -2492,8 +2492,8 @@
 		"landarea_km2_2020": 93,
 		"density_mi2_2020": 3952,
 		"density_km2_2020": 1526,
-		"location_lat": 39.92,
-		"location_lng": -104.94
+		"lat": 39.92,
+		"lon": -104.94
 	},
 	{
 		"city": "Waco",
@@ -2505,8 +2505,8 @@
 		"landarea_km2_2020": 229.7,
 		"density_mi2_2020": 1561,
 		"density_km2_2020": 603,
-		"location_lat": 31.56,
-		"location_lng": -97.19
+		"lat": 31.56,
+		"lon": -97.19
 	},
 	{
 		"city": "Jackson",
@@ -2518,8 +2518,8 @@
 		"landarea_km2_2020": 289.3,
 		"density_mi2_2020": 1376,
 		"density_km2_2020": 531,
-		"location_lat": 32.32,
-		"location_lng": -90.21
+		"lat": 32.32,
+		"lon": -90.21
 	},
 	{
 		"city": "Columbia",
@@ -2531,8 +2531,8 @@
 		"landarea_km2_2020": 354.3,
 		"density_mi2_2020": 999,
 		"density_km2_2020": 386,
-		"location_lat": 34.04,
-		"location_lng": -80.91
+		"lat": 34.04,
+		"lon": -80.91
 	},
 	{
 		"city": "Lakewood",
@@ -2544,8 +2544,8 @@
 		"landarea_km2_2020": 64,
 		"density_mi2_2020": 5472,
 		"density_km2_2020": 2113,
-		"location_lat": 40.08,
-		"location_lng": -74.2
+		"lat": 40.08,
+		"lon": -74.2
 	},
 	{
 		"city": "Fullerton",
@@ -2557,8 +2557,8 @@
 		"landarea_km2_2020": 58,
 		"density_mi2_2020": 6411,
 		"density_km2_2020": 2475,
-		"location_lat": 33.89,
-		"location_lng": -117.93
+		"lat": 33.89,
+		"lon": -117.93
 	},
 	{
 		"city": "Torrance",
@@ -2570,8 +2570,8 @@
 		"landarea_km2_2020": 53.1,
 		"density_mi2_2020": 7174,
 		"density_km2_2020": 2770,
-		"location_lat": 33.83,
-		"location_lng": -118.36
+		"lat": 33.83,
+		"lon": -118.36
 	},
 	{
 		"city": "Victorville",
@@ -2583,8 +2583,8 @@
 		"landarea_km2_2020": 190.9,
 		"density_mi2_2020": 1829,
 		"density_km2_2020": 706,
-		"location_lat": 34.53,
-		"location_lng": -117.35
+		"lat": 34.53,
+		"lon": -117.35
 	},
 	{
 		"city": "Midland",
@@ -2596,8 +2596,8 @@
 		"landarea_km2_2020": 195.5,
 		"density_mi2_2020": 1755,
 		"density_km2_2020": 678,
-		"location_lat": 32.02,
-		"location_lng": -102.11
+		"lat": 32.02,
+		"lon": -102.11
 	},
 	{
 		"city": "Orange",
@@ -2609,8 +2609,8 @@
 		"landarea_km2_2020": 66.6,
 		"density_mi2_2020": 5444,
 		"density_km2_2020": 2102,
-		"location_lat": 33.79,
-		"location_lng": -117.86
+		"lat": 33.79,
+		"lon": -117.86
 	},
 	{
 		"city": "Miramar",
@@ -2622,8 +2622,8 @@
 		"landarea_km2_2020": 74.9,
 		"density_mi2_2020": 4662,
 		"density_km2_2020": 1800,
-		"location_lat": 25.97,
-		"location_lng": -80.34
+		"lat": 25.97,
+		"lon": -80.34
 	},
 	{
 		"city": "Hampton",
@@ -2635,8 +2635,8 @@
 		"landarea_km2_2020": 133.4,
 		"density_mi2_2020": 2663,
 		"density_km2_2020": 1028,
-		"location_lat": 37.05,
-		"location_lng": -76.3
+		"lat": 37.05,
+		"lon": -76.3
 	},
 	{
 		"city": "Warren",
@@ -2648,8 +2648,8 @@
 		"landarea_km2_2020": 89.1,
 		"density_mi2_2020": 4052,
 		"density_km2_2020": 1564,
-		"location_lat": 42.49,
-		"location_lng": -83.03
+		"lat": 42.49,
+		"lon": -83.03
 	},
 	{
 		"city": "Stamford",
@@ -2661,8 +2661,8 @@
 		"landarea_km2_2020": 97.4,
 		"density_mi2_2020": 3603,
 		"density_km2_2020": 1391,
-		"location_lat": 41.08,
-		"location_lng": -73.55
+		"lat": 41.08,
+		"lon": -73.55
 	},
 	{
 		"city": "Cedar Rapids",
@@ -2674,8 +2674,8 @@
 		"landarea_km2_2020": 186.7,
 		"density_mi2_2020": 1910,
 		"density_km2_2020": 740,
-		"location_lat": 41.97,
-		"location_lng": -91.68
+		"lat": 41.97,
+		"lon": -91.68
 	},
 	{
 		"city": "Elizabeth",
@@ -2687,8 +2687,8 @@
 		"landarea_km2_2020": 31.9,
 		"density_mi2_2020": 11162,
 		"density_km2_2020": 4310,
-		"location_lat": 40.67,
-		"location_lng": -74.19
+		"lat": 40.67,
+		"lon": -74.19
 	},
 	{
 		"city": "Palm Bay",
@@ -2700,8 +2700,8 @@
 		"landarea_km2_2020": 223.8,
 		"density_mi2_2020": 1386,
 		"density_km2_2020": 535,
-		"location_lat": 27.96,
-		"location_lng": -80.66
+		"lat": 27.96,
+		"lon": -80.66
 	},
 	{
 		"city": "Dayton",
@@ -2713,8 +2713,8 @@
 		"landarea_km2_2020": 144.5,
 		"density_mi2_2020": 2467,
 		"density_km2_2020": 953,
-		"location_lat": 39.78,
-		"location_lng": -84.2
+		"lat": 39.78,
+		"lon": -84.2
 	},
 	{
 		"city": "New Haven",
@@ -2726,8 +2726,8 @@
 		"landarea_km2_2020": 48.4,
 		"density_mi2_2020": 7167,
 		"density_km2_2020": 2767,
-		"location_lat": 41.31,
-		"location_lng": -72.92
+		"lat": 41.31,
+		"lon": -72.92
 	},
 	{
 		"city": "Coral Springs",
@@ -2739,8 +2739,8 @@
 		"landarea_km2_2020": 59.3,
 		"density_mi2_2020": 5869,
 		"density_km2_2020": 2266,
-		"location_lat": 26.27,
-		"location_lng": -80.26
+		"lat": 26.27,
+		"lon": -80.26
 	},
 	{
 		"city": "Meridian",
@@ -2752,8 +2752,8 @@
 		"landarea_km2_2020": 90.9,
 		"density_mi2_2020": 3351,
 		"density_km2_2020": 1294,
-		"location_lat": 43.61,
-		"location_lng": -116.4
+		"lat": 43.61,
+		"lon": -116.4
 	},
 	{
 		"city": "West Valley City",
@@ -2765,8 +2765,8 @@
 		"landarea_km2_2020": 92.7,
 		"density_mi2_2020": 3917,
 		"density_km2_2020": 1512,
-		"location_lat": 40.69,
-		"location_lng": -112.01
+		"lat": 40.69,
+		"lon": -112.01
 	},
 	{
 		"city": "Pasadena",
@@ -2778,8 +2778,8 @@
 		"landarea_km2_2020": 59.6,
 		"density_mi2_2020": 6030,
 		"density_km2_2020": 2330,
-		"location_lat": 34.16,
-		"location_lng": -118.14
+		"lat": 34.16,
+		"lon": -118.14
 	},
 	{
 		"city": "Lewisville",
@@ -2791,8 +2791,8 @@
 		"landarea_km2_2020": 95.8,
 		"density_mi2_2020": 3022,
 		"density_km2_2020": 1167,
-		"location_lat": 33.05,
-		"location_lng": -96.98
+		"lat": 33.05,
+		"lon": -96.98
 	},
 	{
 		"city": "Kent",
@@ -2804,8 +2804,8 @@
 		"landarea_km2_2020": 87.5,
 		"density_mi2_2020": 4041,
 		"density_km2_2020": 1560,
-		"location_lat": 47.39,
-		"location_lng": -122.21
+		"lat": 47.39,
+		"lon": -122.21
 	},
 	{
 		"city": "Sterling Heights",
@@ -2817,8 +2817,8 @@
 		"landarea_km2_2020": 94.3,
 		"density_mi2_2020": 3691,
 		"density_km2_2020": 1425,
-		"location_lat": 42.58,
-		"location_lng": -83.03
+		"lat": 42.58,
+		"lon": -83.03
 	},
 	{
 		"city": "Fargo",
@@ -2830,8 +2830,8 @@
 		"landarea_km2_2020": 129,
 		"density_mi2_2020": 2530,
 		"density_km2_2020": 980,
-		"location_lat": 46.86,
-		"location_lng": -96.83
+		"lat": 46.86,
+		"lon": -96.83
 	},
 	{
 		"city": "Carrollton",
@@ -2843,8 +2843,8 @@
 		"landarea_km2_2020": 95.1,
 		"density_mi2_2020": 3636,
 		"density_km2_2020": 1404,
-		"location_lat": 32.99,
-		"location_lng": -96.9
+		"lat": 32.99,
+		"lon": -96.9
 	},
 	{
 		"city": "Santa Clara",
@@ -2856,8 +2856,8 @@
 		"landarea_km2_2020": 47.4,
 		"density_mi2_2020": 6975,
 		"density_km2_2020": 2693,
-		"location_lat": 37.36,
-		"location_lng": -121.97
+		"lat": 37.36,
+		"lon": -121.97
 	},
 	{
 		"city": "Round Rock",
@@ -2869,8 +2869,8 @@
 		"landarea_km2_2020": 97.4,
 		"density_mi2_2020": 3177,
 		"density_km2_2020": 1227,
-		"location_lat": 30.53,
-		"location_lng": -97.66
+		"lat": 30.53,
+		"lon": -97.66
 	},
 	{
 		"city": "Norman",
@@ -2882,8 +2882,8 @@
 		"landarea_km2_2020": 463.1,
 		"density_mi2_2020": 716,
 		"density_km2_2020": 276,
-		"location_lat": 35.24,
-		"location_lng": -97.35
+		"lat": 35.24,
+		"lon": -97.35
 	},
 	{
 		"city": "Columbia",
@@ -2895,8 +2895,8 @@
 		"landarea_km2_2020": 172.2,
 		"density_mi2_2020": 1899,
 		"density_km2_2020": 733,
-		"location_lat": 38.95,
-		"location_lng": -92.33
+		"lat": 38.95,
+		"lon": -92.33
 	},
 	{
 		"city": "Abilene",
@@ -2908,8 +2908,8 @@
 		"landarea_km2_2020": 276.4,
 		"density_mi2_2020": 1173,
 		"density_km2_2020": 453,
-		"location_lat": 32.45,
-		"location_lng": -99.74
+		"lat": 32.45,
+		"lon": -99.74
 	},
 	{
 		"city": "Athens",
@@ -2921,8 +2921,8 @@
 		"landarea_km2_2020": 301.2,
 		"density_mi2_2020": 1095,
 		"density_km2_2020": 423,
-		"location_lat": 33.95,
-		"location_lng": -83.37
+		"lat": 33.95,
+		"lon": -83.37
 	},
 	{
 		"city": "Pearland",
@@ -2934,8 +2934,8 @@
 		"landarea_km2_2020": 126.1,
 		"density_mi2_2020": 2584,
 		"density_km2_2020": 998,
-		"location_lat": 29.56,
-		"location_lng": -95.32
+		"lat": 29.56,
+		"lon": -95.32
 	},
 	{
 		"city": "Clovis",
@@ -2947,8 +2947,8 @@
 		"landarea_km2_2020": 65.8,
 		"density_mi2_2020": 4729,
 		"density_km2_2020": 1826,
-		"location_lat": 36.83,
-		"location_lng": -119.68
+		"lat": 36.83,
+		"lon": -119.68
 	},
 	{
 		"city": "Topeka",
@@ -2960,8 +2960,8 @@
 		"landarea_km2_2020": 159,
 		"density_mi2_2020": 2062,
 		"density_km2_2020": 796,
-		"location_lat": 39.03,
-		"location_lng": -95.69
+		"lat": 39.03,
+		"lon": -95.69
 	},
 	{
 		"city": "College Station",
@@ -2973,8 +2973,8 @@
 		"landarea_km2_2020": 132.6,
 		"density_mi2_2020": 2354,
 		"density_km2_2020": 909,
-		"location_lat": 30.59,
-		"location_lng": -96.3
+		"lat": 30.59,
+		"lon": -96.3
 	},
 	{
 		"city": "Simi Valley",
@@ -2986,8 +2986,8 @@
 		"landarea_km2_2020": 107.5,
 		"density_mi2_2020": 3045,
 		"density_km2_2020": 1176,
-		"location_lat": 34.27,
-		"location_lng": -118.75
+		"lat": 34.27,
+		"lon": -118.75
 	},
 	{
 		"city": "Allentown",
@@ -2999,8 +2999,8 @@
 		"landarea_km2_2020": 45.6,
 		"density_mi2_2020": 7150,
 		"density_km2_2020": 2760,
-		"location_lat": 40.59,
-		"location_lng": -75.48
+		"lat": 40.59,
+		"lon": -75.48
 	},
 	{
 		"city": "West Palm Beach",
@@ -3012,8 +3012,8 @@
 		"landarea_km2_2020": 139.3,
 		"density_mi2_2020": 2182,
 		"density_km2_2020": 842,
-		"location_lat": 26.75,
-		"location_lng": -80.13
+		"lat": 26.75,
+		"lon": -80.13
 	},
 	{
 		"city": "Thousand Oaks",
@@ -3025,8 +3025,8 @@
 		"landarea_km2_2020": 143.2,
 		"density_mi2_2020": 2296,
 		"density_km2_2020": 886,
-		"location_lat": 34.19,
-		"location_lng": -118.87
+		"lat": 34.19,
+		"lon": -118.87
 	},
 	{
 		"city": "Vallejo",
@@ -3038,8 +3038,8 @@
 		"landarea_km2_2020": 78.7,
 		"density_mi2_2020": 4148,
 		"density_km2_2020": 1602,
-		"location_lat": 38.11,
-		"location_lng": -122.26
+		"lat": 38.11,
+		"lon": -122.26
 	},
 	{
 		"city": "Wilmington",
@@ -3051,8 +3051,8 @@
 		"landarea_km2_2020": 133.1,
 		"density_mi2_2020": 2246,
 		"density_km2_2020": 867,
-		"location_lat": 34.21,
-		"location_lng": -77.89
+		"lat": 34.21,
+		"lon": -77.89
 	},
 	{
 		"city": "Rochester",
@@ -3064,8 +3064,8 @@
 		"landarea_km2_2020": 143.7,
 		"density_mi2_2020": 2187,
 		"density_km2_2020": 844,
-		"location_lat": 44.02,
-		"location_lng": -92.48
+		"lat": 44.02,
+		"lon": -92.48
 	},
 	{
 		"city": "Concord",
@@ -3077,8 +3077,8 @@
 		"landarea_km2_2020": 79.3,
 		"density_mi2_2020": 4098,
 		"density_km2_2020": 1582,
-		"location_lat": 37.97,
-		"location_lng": -122.0
+		"lat": 37.97,
+		"lon": -122.0
 	},
 	{
 		"city": "Lakeland",
@@ -3090,8 +3090,8 @@
 		"landarea_km2_2020": 171.5,
 		"density_mi2_2020": 1702,
 		"density_km2_2020": 657,
-		"location_lat": 28.06,
-		"location_lng": -81.95
+		"lat": 28.06,
+		"lon": -81.95
 	},
 	{
 		"city": "North Charleston",
@@ -3103,8 +3103,8 @@
 		"landarea_km2_2020": 201,
 		"density_mi2_2020": 1480,
 		"density_km2_2020": 570,
-		"location_lat": 32.92,
-		"location_lng": -80.07
+		"lat": 32.92,
+		"lon": -80.07
 	},
 	{
 		"city": "Lafayette",
@@ -3116,8 +3116,8 @@
 		"landarea_km2_2020": 144.5,
 		"density_mi2_2020": 2175,
 		"density_km2_2020": 840,
-		"location_lat": 30.21,
-		"location_lng": -92.03
+		"lat": 30.21,
+		"lon": -92.03
 	},
 	{
 		"city": "Arvada",
@@ -3129,8 +3129,8 @@
 		"landarea_km2_2020": 100.8,
 		"density_mi2_2020": 3198,
 		"density_km2_2020": 1235,
-		"location_lat": 39.83,
-		"location_lng": -105.15
+		"lat": 39.83,
+		"lon": -105.15
 	},
 	{
 		"city": "Independence",
@@ -3142,8 +3142,8 @@
 		"landarea_km2_2020": 202,
 		"density_mi2_2020": 1577,
 		"density_km2_2020": 609,
-		"location_lat": 39.09,
-		"location_lng": -94.35
+		"lat": 39.09,
+		"lon": -94.35
 	},
 	{
 		"city": "Billings",
@@ -3155,8 +3155,8 @@
 		"landarea_km2_2020": 116,
 		"density_mi2_2020": 2614,
 		"density_km2_2020": 1009,
-		"location_lat": 45.79,
-		"location_lng": -108.55
+		"lat": 45.79,
+		"lon": -108.55
 	},
 	{
 		"city": "Fairfield",
@@ -3168,8 +3168,8 @@
 		"landarea_km2_2020": 107.7,
 		"density_mi2_2020": 2882,
 		"density_km2_2020": 1113,
-		"location_lat": 38.26,
-		"location_lng": -122.03
+		"lat": 38.26,
+		"lon": -122.03
 	},
 	{
 		"city": "Hartford",
@@ -3181,8 +3181,8 @@
 		"landarea_km2_2020": 45.1,
 		"density_mi2_2020": 6957,
 		"density_km2_2020": 2686,
-		"location_lat": 41.77,
-		"location_lng": -72.68
+		"lat": 41.77,
+		"lon": -72.68
 	},
 	{
 		"city": "Ann Arbor",
@@ -3194,8 +3194,8 @@
 		"landarea_km2_2020": 73,
 		"density_mi2_2020": 4392,
 		"density_km2_2020": 1696,
-		"location_lat": 42.28,
-		"location_lng": -83.73
+		"lat": 42.28,
+		"lon": -83.73
 	},
 	{
 		"city": "Broken Arrow",
@@ -3207,8 +3207,8 @@
 		"landarea_km2_2020": 163.2,
 		"density_mi2_2020": 1802,
 		"density_km2_2020": 696,
-		"location_lat": 36.04,
-		"location_lng": -95.78
+		"lat": 36.04,
+		"lon": -95.78
 	},
 	{
 		"city": "Berkeley",
@@ -3220,8 +3220,8 @@
 		"landarea_km2_2020": 26.9,
 		"density_mi2_2020": 11954,
 		"density_km2_2020": 4615,
-		"location_lat": 37.87,
-		"location_lng": -122.3
+		"lat": 37.87,
+		"lon": -122.3
 	},
 	{
 		"city": "Cambridge",
@@ -3233,8 +3233,8 @@
 		"landarea_km2_2020": 16.6,
 		"density_mi2_2020": 18500,
 		"density_km2_2020": 7100,
-		"location_lat": 42.38,
-		"location_lng": -71.12
+		"lat": 42.38,
+		"lon": -71.12
 	},
 	{
 		"city": "Richardson",
@@ -3246,8 +3246,8 @@
 		"landarea_km2_2020": 74.1,
 		"density_mi2_2020": 4177,
 		"density_km2_2020": 1613,
-		"location_lat": 32.97,
-		"location_lng": -96.71
+		"lat": 32.97,
+		"lon": -96.71
 	},
 	{
 		"city": "Antioch",
@@ -3259,8 +3259,8 @@
 		"landarea_km2_2020": 75.6,
 		"density_mi2_2020": 3948,
 		"density_km2_2020": 1524,
-		"location_lat": 37.98,
-		"location_lng": -121.8
+		"lat": 37.98,
+		"lon": -121.8
 	},
 	{
 		"city": "High Point",
@@ -3272,8 +3272,8 @@
 		"landarea_km2_2020": 146.1,
 		"density_mi2_2020": 2022,
 		"density_km2_2020": 781,
-		"location_lat": 35.99,
-		"location_lng": -79.99
+		"lat": 35.99,
+		"lon": -79.99
 	},
 	{
 		"city": "Clearwater",
@@ -3285,8 +3285,8 @@
 		"landarea_km2_2020": 67.6,
 		"density_mi2_2020": 4494,
 		"density_km2_2020": 1735,
-		"location_lat": 27.98,
-		"location_lng": -82.77
+		"lat": 27.98,
+		"lon": -82.77
 	},
 	{
 		"city": "League City",
@@ -3298,8 +3298,8 @@
 		"landarea_km2_2020": 132.9,
 		"density_mi2_2020": 2230,
 		"density_km2_2020": 860,
-		"location_lat": 29.49,
-		"location_lng": -95.11
+		"lat": 29.49,
+		"lon": -95.11
 	},
 	{
 		"city": "Odessa",
@@ -3311,8 +3311,8 @@
 		"landarea_km2_2020": 132.3,
 		"density_mi2_2020": 2239,
 		"density_km2_2020": 864,
-		"location_lat": 31.88,
-		"location_lng": -102.35
+		"lat": 31.88,
+		"lon": -102.35
 	},
 	{
 		"city": "Manchester",
@@ -3324,8 +3324,8 @@
 		"landarea_km2_2020": 85.7,
 		"density_mi2_2020": 3494,
 		"density_km2_2020": 1349,
-		"location_lat": 42.98,
-		"location_lng": -71.44
+		"lat": 42.98,
+		"lon": -71.44
 	},
 	{
 		"city": "Evansville",
@@ -3337,8 +3337,8 @@
 		"landarea_km2_2020": 122.8,
 		"density_mi2_2020": 2475,
 		"density_km2_2020": 956,
-		"location_lat": 37.99,
-		"location_lng": -87.53
+		"lat": 37.99,
+		"lon": -87.53
 	},
 	{
 		"city": "Waterbury",
@@ -3350,8 +3350,8 @@
 		"landarea_km2_2020": 73.8,
 		"density_mi2_2020": 4014,
 		"density_km2_2020": 1550,
-		"location_lat": 41.56,
-		"location_lng": -73.04
+		"lat": 41.56,
+		"lon": -73.04
 	},
 	{
 		"city": "West Jordan",
@@ -3363,8 +3363,8 @@
 		"landarea_km2_2020": 83.7,
 		"density_mi2_2020": 3621,
 		"density_km2_2020": 1398,
-		"location_lat": 40.6,
-		"location_lng": -112.0
+		"lat": 40.6,
+		"lon": -112.0
 	},
 	{
 		"city": "Las Cruces",
@@ -3376,8 +3376,8 @@
 		"landarea_km2_2020": 199.2,
 		"density_mi2_2020": 1448,
 		"density_km2_2020": 559,
-		"location_lat": 32.33,
-		"location_lng": -106.79
+		"lat": 32.33,
+		"lon": -106.79
 	},
 	{
 		"city": "Westminster",
@@ -3389,8 +3389,8 @@
 		"landarea_km2_2020": 81.8,
 		"density_mi2_2020": 3681,
 		"density_km2_2020": 1421,
-		"location_lat": 39.88,
-		"location_lng": -105.06
+		"lat": 39.88,
+		"lon": -105.06
 	},
 	{
 		"city": "Lowell",
@@ -3402,8 +3402,8 @@
 		"landarea_km2_2020": 35.2,
 		"density_mi2_2020": 8497,
 		"density_km2_2020": 3281,
-		"location_lat": 42.64,
-		"location_lng": -71.32
+		"lat": 42.64,
+		"lon": -71.32
 	},
 	{
 		"city": "Nampa",
@@ -3415,8 +3415,8 @@
 		"landarea_km2_2020": 86.8,
 		"density_mi2_2020": 2991,
 		"density_km2_2020": 1155,
-		"location_lat": 43.58,
-		"location_lng": -116.56
+		"lat": 43.58,
+		"lon": -116.56
 	},
 	{
 		"city": "Richmond",
@@ -3428,8 +3428,8 @@
 		"landarea_km2_2020": 78,
 		"density_mi2_2020": 3869,
 		"density_km2_2020": 1494,
-		"location_lat": 37.95,
-		"location_lng": -122.36
+		"lat": 37.95,
+		"lon": -122.36
 	},
 	{
 		"city": "Pompano Beach",
@@ -3441,8 +3441,8 @@
 		"landarea_km2_2020": 62.2,
 		"density_mi2_2020": 4669,
 		"density_km2_2020": 1803,
-		"location_lat": 26.24,
-		"location_lng": -80.13
+		"lat": 26.24,
+		"lon": -80.13
 	},
 	{
 		"city": "Carlsbad",
@@ -3454,8 +3454,8 @@
 		"landarea_km2_2020": 97.9,
 		"density_mi2_2020": 3036,
 		"density_km2_2020": 1172,
-		"location_lat": 33.13,
-		"location_lng": -117.28
+		"lat": 33.13,
+		"lon": -117.28
 	},
 	{
 		"city": "Menifee",
@@ -3467,8 +3467,8 @@
 		"landarea_km2_2020": 120.4,
 		"density_mi2_2020": 2205,
 		"density_km2_2020": 851,
-		"location_lat": 33.69,
-		"location_lng": -117.18
+		"lat": 33.69,
+		"lon": -117.18
 	},
 	{
 		"city": "Provo",
@@ -3480,8 +3480,8 @@
 		"landarea_km2_2020": 108,
 		"density_mi2_2020": 2762,
 		"density_km2_2020": 1066,
-		"location_lat": 40.25,
-		"location_lng": -111.65
+		"lat": 40.25,
+		"lon": -111.65
 	},
 	{
 		"city": "Elgin",
@@ -3493,8 +3493,8 @@
 		"landarea_km2_2020": 98.4,
 		"density_mi2_2020": 3021,
 		"density_km2_2020": 1166,
-		"location_lat": 42.04,
-		"location_lng": -88.33
+		"lat": 42.04,
+		"lon": -88.33
 	},
 	{
 		"city": "Greeley",
@@ -3506,8 +3506,8 @@
 		"landarea_km2_2020": 126.7,
 		"density_mi2_2020": 2225,
 		"density_km2_2020": 859,
-		"location_lat": 40.41,
-		"location_lng": -104.77
+		"lat": 40.41,
+		"lon": -104.77
 	},
 	{
 		"city": "Springfield",
@@ -3519,8 +3519,8 @@
 		"landarea_km2_2020": 158.2,
 		"density_mi2_2020": 1872,
 		"density_km2_2020": 723,
-		"location_lat": 39.79,
-		"location_lng": -89.64
+		"lat": 39.79,
+		"lon": -89.64
 	},
 	{
 		"city": "Beaumont",
@@ -3532,8 +3532,8 @@
 		"landarea_km2_2020": 213.7,
 		"density_mi2_2020": 1397,
 		"density_km2_2020": 539,
-		"location_lat": 30.08,
-		"location_lng": -94.15
+		"lat": 30.08,
+		"lon": -94.15
 	},
 	{
 		"city": "Lansing",
@@ -3545,8 +3545,8 @@
 		"landarea_km2_2020": 101.3,
 		"density_mi2_2020": 2881,
 		"density_km2_2020": 1112,
-		"location_lat": 42.71,
-		"location_lng": -84.56
+		"lat": 42.71,
+		"lon": -84.56
 	},
 	{
 		"city": "Murrieta",
@@ -3558,8 +3558,8 @@
 		"landarea_km2_2020": 87,
 		"density_mi2_2020": 3302,
 		"density_km2_2020": 1275,
-		"location_lat": 33.57,
-		"location_lng": -117.19
+		"lat": 33.57,
+		"lon": -117.19
 	},
 	{
 		"city": "Goodyear",
@@ -3571,8 +3571,8 @@
 		"landarea_km2_2020": 495.5,
 		"density_mi2_2020": 498,
 		"density_km2_2020": 192,
-		"location_lat": 33.25,
-		"location_lng": -112.37
+		"lat": 33.25,
+		"lon": -112.37
 	},
 	{
 		"city": "Allen",
@@ -3584,8 +3584,8 @@
 		"landarea_km2_2020": 68.4,
 		"density_mi2_2020": 3963,
 		"density_km2_2020": 1530,
-		"location_lat": 33.11,
-		"location_lng": -96.67
+		"lat": 33.11,
+		"lon": -96.67
 	},
 	{
 		"city": "Tuscaloosa",
@@ -3597,8 +3597,8 @@
 		"landarea_km2_2020": 160.3,
 		"density_mi2_2020": 1609,
 		"density_km2_2020": 621,
-		"location_lat": 33.23,
-		"location_lng": -87.53
+		"lat": 33.23,
+		"lon": -87.53
 	},
 	{
 		"city": "Everett",
@@ -3610,8 +3610,8 @@
 		"landarea_km2_2020": 86,
 		"density_mi2_2020": 3332,
 		"density_km2_2020": 1286,
-		"location_lat": 47.95,
-		"location_lng": -122.19
+		"lat": 47.95,
+		"lon": -122.19
 	},
 	{
 		"city": "Pueblo",
@@ -3623,8 +3623,8 @@
 		"landarea_km2_2020": 143.5,
 		"density_mi2_2020": 2019,
 		"density_km2_2020": 780,
-		"location_lat": 38.27,
-		"location_lng": -104.61
+		"lat": 38.27,
+		"lon": -104.61
 	},
 	{
 		"city": "New Braunfels",
@@ -3636,8 +3636,8 @@
 		"landarea_km2_2020": 117.1,
 		"density_mi2_2020": 2000,
 		"density_km2_2020": 770,
-		"location_lat": 29.7,
-		"location_lng": -98.12
+		"lat": 29.7,
+		"lon": -98.12
 	},
 	{
 		"city": "South Fulton",
@@ -3649,8 +3649,8 @@
 		"landarea_km2_2020": 220.7,
 		"density_mi2_2020": 1261,
 		"density_km2_2020": 487,
-		"location_lat": 33.66,
-		"location_lng": -84.57
+		"lat": 33.66,
+		"lon": -84.57
 	},
 	{
 		"city": "Miami Gardens",
@@ -3662,8 +3662,8 @@
 		"landarea_km2_2020": 47.1,
 		"density_mi2_2020": 6134,
 		"density_km2_2020": 2368,
-		"location_lat": 25.95,
-		"location_lng": -80.24
+		"lat": 25.95,
+		"lon": -80.24
 	},
 	{
 		"city": "Gresham",
@@ -3675,8 +3675,8 @@
 		"landarea_km2_2020": 60.9,
 		"density_mi2_2020": 4862,
 		"density_km2_2020": 1877,
-		"location_lat": 45.5,
-		"location_lng": -122.44
+		"lat": 45.5,
+		"lon": -122.44
 	},
 	{
 		"city": "Temecula",
@@ -3688,8 +3688,8 @@
 		"landarea_km2_2020": 96.6,
 		"density_mi2_2020": 2949,
 		"density_km2_2020": 1139,
-		"location_lat": 33.49,
-		"location_lng": -117.13
+		"lat": 33.49,
+		"lon": -117.13
 	},
 	{
 		"city": "Rio Rancho",
@@ -3701,8 +3701,8 @@
 		"landarea_km2_2020": 267.8,
 		"density_mi2_2020": 1006,
 		"density_km2_2020": 388,
-		"location_lat": 35.29,
-		"location_lng": -106.7
+		"lat": 35.29,
+		"lon": -106.7
 	},
 	{
 		"city": "Peoria",
@@ -3714,8 +3714,8 @@
 		"landarea_km2_2020": 124.3,
 		"density_mi2_2020": 2357,
 		"density_km2_2020": 910,
-		"location_lat": 40.75,
-		"location_lng": -89.62
+		"lat": 40.75,
+		"lon": -89.62
 	},
 	{
 		"city": "Tyler",
@@ -3727,8 +3727,8 @@
 		"landarea_km2_2020": 148.9,
 		"density_mi2_2020": 1843,
 		"density_km2_2020": 712,
-		"location_lat": 32.32,
-		"location_lng": -95.31
+		"lat": 32.32,
+		"lon": -95.31
 	},
 	{
 		"city": "Sparks",
@@ -3740,8 +3740,8 @@
 		"landarea_km2_2020": 94.3,
 		"density_mi2_2020": 2979,
 		"density_km2_2020": 1150,
-		"location_lat": 39.57,
-		"location_lng": -119.72
+		"lat": 39.57,
+		"lon": -119.72
 	},
 	{
 		"city": "Concord",
@@ -3753,8 +3753,8 @@
 		"landarea_km2_2020": 164.5,
 		"density_mi2_2020": 1657,
 		"density_km2_2020": 640,
-		"location_lat": 35.39,
-		"location_lng": -80.64
+		"lat": 35.39,
+		"lon": -80.64
 	},
 	{
 		"city": "Santa Maria",
@@ -3766,8 +3766,8 @@
 		"landarea_km2_2020": 59.1,
 		"density_mi2_2020": 4812,
 		"density_km2_2020": 1858,
-		"location_lat": 34.93,
-		"location_lng": -120.44
+		"lat": 34.93,
+		"lon": -120.44
 	},
 	{
 		"city": "Ventura",
@@ -3779,8 +3779,8 @@
 		"landarea_km2_2020": 56.7,
 		"density_mi2_2020": 5058,
 		"density_km2_2020": 1953,
-		"location_lat": 34.27,
-		"location_lng": -119.25
+		"lat": 34.27,
+		"lon": -119.25
 	},
 	{
 		"city": "Buckeye",
@@ -3792,8 +3792,8 @@
 		"landarea_km2_2020": 1017.9,
 		"density_mi2_2020": 233,
 		"density_km2_2020": 90,
-		"location_lat": 33.43,
-		"location_lng": -112.64
+		"lat": 33.43,
+		"lon": -112.64
 	},
 	{
 		"city": "Downey",
@@ -3805,8 +3805,8 @@
 		"landarea_km2_2020": 32.1,
 		"density_mi2_2020": 9222,
 		"density_km2_2020": 3561,
-		"location_lat": 33.94,
-		"location_lng": -118.13
+		"lat": 33.94,
+		"lon": -118.13
 	},
 	{
 		"city": "Sugar Land",
@@ -3818,8 +3818,8 @@
 		"landarea_km2_2020": 104.9,
 		"density_mi2_2020": 2741,
 		"density_km2_2020": 1058,
-		"location_lat": 29.59,
-		"location_lng": -95.63
+		"lat": 29.59,
+		"lon": -95.63
 	},
 	{
 		"city": "Costa Mesa",
@@ -3831,8 +3831,8 @@
 		"landarea_km2_2020": 40.9,
 		"density_mi2_2020": 7083,
 		"density_km2_2020": 2735,
-		"location_lat": 33.67,
-		"location_lng": -117.91
+		"lat": 33.67,
+		"lon": -117.91
 	},
 	{
 		"city": "Conroe",
@@ -3844,8 +3844,8 @@
 		"landarea_km2_2020": 186.5,
 		"density_mi2_2020": 1249,
 		"density_km2_2020": 482,
-		"location_lat": 30.32,
-		"location_lng": -95.49
+		"lat": 30.32,
+		"lon": -95.49
 	},
 	{
 		"city": "Spokane Valley",
@@ -3857,8 +3857,8 @@
 		"landarea_km2_2020": 97.6,
 		"density_mi2_2020": 2731,
 		"density_km2_2020": 1054,
-		"location_lat": 47.66,
-		"location_lng": -117.23
+		"lat": 47.66,
+		"lon": -117.23
 	},
 	{
 		"city": "Davie",
@@ -3870,8 +3870,8 @@
 		"landarea_km2_2020": 90.4,
 		"density_mi2_2020": 3028,
 		"density_km2_2020": 1169,
-		"location_lat": 26.08,
-		"location_lng": -80.28
+		"lat": 26.08,
+		"lon": -80.28
 	},
 	{
 		"city": "Hillsboro",
@@ -3883,8 +3883,8 @@
 		"landarea_km2_2020": 66.6,
 		"density_mi2_2020": 4142,
 		"density_km2_2020": 1599,
-		"location_lat": 45.53,
-		"location_lng": -122.94
+		"lat": 45.53,
+		"lon": -122.94
 	},
 	{
 		"city": "Jurupa Valley",
@@ -3896,8 +3896,8 @@
 		"landarea_km2_2020": 111.1,
 		"density_mi2_2020": 2449,
 		"density_km2_2020": 946,
-		"location_lat": 34.0,
-		"location_lng": -117.47
+		"lat": 34.0,
+		"lon": -117.47
 	},
 	{
 		"city": "Centennial",
@@ -3909,8 +3909,8 @@
 		"landarea_km2_2020": 76.9,
 		"density_mi2_2020": 3650,
 		"density_km2_2020": 1410,
-		"location_lat": 39.59,
-		"location_lng": -104.87
+		"lat": 39.59,
+		"lon": -104.87
 	},
 	{
 		"city": "Edison",
@@ -3922,8 +3922,8 @@
 		"landarea_km2_2020": 78,
 		"density_mi2_2020": 3574,
 		"density_km2_2020": 1380,
-		"location_lat": 40.5,
-		"location_lng": -74.35
+		"lat": 40.5,
+		"lon": -74.35
 	},
 	{
 		"city": "Boulder",
@@ -3935,8 +3935,8 @@
 		"landarea_km2_2020": 68.1,
 		"density_mi2_2020": 4116,
 		"density_km2_2020": 1589,
-		"location_lat": 40.02,
-		"location_lng": -105.25
+		"lat": 40.02,
+		"lon": -105.25
 	},
 	{
 		"city": "Dearborn",
@@ -3948,8 +3948,8 @@
 		"landarea_km2_2020": 62.7,
 		"density_mi2_2020": 4544,
 		"density_km2_2020": 1754,
-		"location_lat": 42.31,
-		"location_lng": -83.21
+		"lat": 42.31,
+		"lon": -83.21
 	},
 	{
 		"city": "Edinburg",
@@ -3961,8 +3961,8 @@
 		"landarea_km2_2020": 115.8,
 		"density_mi2_2020": 2243,
 		"density_km2_2020": 866,
-		"location_lat": 26.32,
-		"location_lng": -98.16
+		"lat": 26.32,
+		"lon": -98.16
 	},
 	{
 		"city": "Sandy Springs",
@@ -3974,8 +3974,8 @@
 		"landarea_km2_2020": 97.6,
 		"density_mi2_2020": 2867,
 		"density_km2_2020": 1107,
-		"location_lat": 33.93,
-		"location_lng": -84.37
+		"lat": 33.93,
+		"lon": -84.37
 	},
 	{
 		"city": "Green Bay",
@@ -3987,8 +3987,8 @@
 		"landarea_km2_2020": 117.8,
 		"density_mi2_2020": 2360,
 		"density_km2_2020": 910,
-		"location_lat": 44.52,
-		"location_lng": -87.99
+		"lat": 44.52,
+		"lon": -87.99
 	},
 	{
 		"city": "West Covina",
@@ -4000,8 +4000,8 @@
 		"landarea_km2_2020": 41.4,
 		"density_mi2_2020": 6844,
 		"density_km2_2020": 2642,
-		"location_lat": 34.06,
-		"location_lng": -117.91
+		"lat": 34.06,
+		"lon": -117.91
 	},
 	{
 		"city": "Brockton",
@@ -4013,8 +4013,8 @@
 		"landarea_km2_2020": 55.2,
 		"density_mi2_2020": 4960,
 		"density_km2_2020": 1920,
-		"location_lat": 42.08,
-		"location_lng": -71.02
+		"lat": 42.08,
+		"lon": -71.02
 	},
 	{
 		"city": "St. George",
@@ -4026,8 +4026,8 @@
 		"landarea_km2_2020": 203.3,
 		"density_mi2_2020": 1215,
 		"density_km2_2020": 469,
-		"location_lat": 37.08,
-		"location_lng": -113.56
+		"lat": 37.08,
+		"lon": -113.56
 	},
 	{
 		"city": "Bend",
@@ -4039,8 +4039,8 @@
 		"landarea_km2_2020": 87,
 		"density_mi2_2020": 2952,
 		"density_km2_2020": 1140,
-		"location_lat": 44.06,
-		"location_lng": -121.31
+		"lat": 44.06,
+		"lon": -121.31
 	},
 	{
 		"city": "Renton",
@@ -4052,8 +4052,8 @@
 		"landarea_km2_2020": 60.9,
 		"density_mi2_2020": 4544,
 		"density_km2_2020": 1754,
-		"location_lat": 47.48,
-		"location_lng": -122.19
+		"lat": 47.48,
+		"lon": -122.19
 	},
 	{
 		"city": "Lee's Summit",
@@ -4065,8 +4065,8 @@
 		"landarea_km2_2020": 165.5,
 		"density_mi2_2020": 1582,
 		"density_km2_2020": 611,
-		"location_lat": 38.92,
-		"location_lng": -94.38
+		"lat": 38.92,
+		"lon": -94.38
 	},
 	{
 		"city": "Fishers",
@@ -4078,8 +4078,8 @@
 		"landarea_km2_2020": 92.2,
 		"density_mi2_2020": 2780,
 		"density_km2_2020": 1070,
-		"location_lat": 39.96,
-		"location_lng": -85.97
+		"lat": 39.96,
+		"lon": -85.97
 	},
 	{
 		"city": "El Monte",
@@ -4091,8 +4091,8 @@
 		"landarea_km2_2020": 24.9,
 		"density_mi2_2020": 11401,
 		"density_km2_2020": 4402,
-		"location_lat": 34.07,
-		"location_lng": -118.03
+		"lat": 34.07,
+		"lon": -118.03
 	},
 	{
 		"city": "South Bend",
@@ -4104,8 +4104,8 @@
 		"landarea_km2_2020": 108.8,
 		"density_mi2_2020": 2463,
 		"density_km2_2020": 951,
-		"location_lat": 41.68,
-		"location_lng": -86.27
+		"lat": 41.68,
+		"lon": -86.27
 	},
 	{
 		"city": "Rialto",
@@ -4117,8 +4117,8 @@
 		"landarea_km2_2020": 62.4,
 		"density_mi2_2020": 4316,
 		"density_km2_2020": 1666,
-		"location_lat": 34.12,
-		"location_lng": -117.39
+		"lat": 34.12,
+		"lon": -117.39
 	},
 	{
 		"city": "Woodbridge",
@@ -4130,8 +4130,8 @@
 		"landarea_km2_2020": 60.3,
 		"density_mi2_2020": 4448,
 		"density_km2_2020": 1717,
-		"location_lat": 40.56,
-		"location_lng": -74.29
+		"lat": 40.56,
+		"lon": -74.29
 	},
 	{
 		"city": "El Cajon",
@@ -4143,8 +4143,8 @@
 		"landarea_km2_2020": 37.6,
 		"density_mi2_2020": 7325,
 		"density_km2_2020": 2828,
-		"location_lat": 32.8,
-		"location_lng": -116.96
+		"lat": 32.8,
+		"lon": -116.96
 	},
 	{
 		"city": "Inglewood",
@@ -4156,8 +4156,8 @@
 		"landarea_km2_2020": 23.6,
 		"density_mi2_2020": 11842,
 		"density_km2_2020": 4572,
-		"location_lat": 33.96,
-		"location_lng": -118.34
+		"lat": 33.96,
+		"lon": -118.34
 	},
 	{
 		"city": "Burbank",
@@ -4169,8 +4169,8 @@
 		"landarea_km2_2020": 44.8,
 		"density_mi2_2020": 6204,
 		"density_km2_2020": 2395,
-		"location_lat": 34.19,
-		"location_lng": -118.33
+		"lat": 34.19,
+		"lon": -118.33
 	},
 	{
 		"city": "Wichita Falls",
@@ -4182,8 +4182,8 @@
 		"landarea_km2_2020": 186.5,
 		"density_mi2_2020": 1421,
 		"density_km2_2020": 549,
-		"location_lat": 33.91,
-		"location_lng": -98.53
+		"lat": 33.91,
+		"lon": -98.53
 	},
 	{
 		"city": "Vacaville",
@@ -4195,8 +4195,8 @@
 		"landarea_km2_2020": 77.4,
 		"density_mi2_2020": 3424,
 		"density_km2_2020": 1322,
-		"location_lat": 38.36,
-		"location_lng": -121.97
+		"lat": 38.36,
+		"lon": -121.97
 	},
 	{
 		"city": "Carmel",
@@ -4208,8 +4208,8 @@
 		"landarea_km2_2020": 127.2,
 		"density_mi2_2020": 2032,
 		"density_km2_2020": 785,
-		"location_lat": 39.97,
-		"location_lng": -86.15
+		"lat": 39.97,
+		"lon": -86.15
 	},
 	{
 		"city": "Palm Coast",
@@ -4221,8 +4221,8 @@
 		"landarea_km2_2020": 247.1,
 		"density_mi2_2020": 937,
 		"density_km2_2020": 362,
-		"location_lat": 29.54,
-		"location_lng": -81.24
+		"lat": 29.54,
+		"lon": -81.24
 	},
 	{
 		"city": "Fayetteville",
@@ -4234,8 +4234,8 @@
 		"landarea_km2_2020": 140.1,
 		"density_mi2_2020": 1737,
 		"density_km2_2020": 671,
-		"location_lat": 36.07,
-		"location_lng": -94.17
+		"lat": 36.07,
+		"lon": -94.17
 	},
 	{
 		"city": "Quincy",
@@ -4247,8 +4247,8 @@
 		"landarea_km2_2020": 43,
 		"density_mi2_2020": 6123,
 		"density_km2_2020": 2364,
-		"location_lat": 42.26,
-		"location_lng": -71.01
+		"lat": 42.26,
+		"lon": -71.01
 	},
 	{
 		"city": "San Mateo",
@@ -4260,8 +4260,8 @@
 		"landarea_km2_2020": 31.3,
 		"density_mi2_2020": 8732,
 		"density_km2_2020": 3371,
-		"location_lat": 37.56,
-		"location_lng": -122.31
+		"lat": 37.56,
+		"lon": -122.31
 	},
 	{
 		"city": "Chico",
@@ -4273,8 +4273,8 @@
 		"landarea_km2_2020": 88.3,
 		"density_mi2_2020": 2976,
 		"density_km2_2020": 1149,
-		"location_lat": 39.76,
-		"location_lng": -121.82
+		"lat": 39.76,
+		"lon": -121.82
 	},
 	{
 		"city": "Lynn",
@@ -4286,8 +4286,8 @@
 		"landarea_km2_2020": 27.7,
 		"density_mi2_2020": 9463,
 		"density_km2_2020": 3654,
-		"location_lat": 42.47,
-		"location_lng": -70.96
+		"lat": 42.47,
+		"lon": -70.96
 	},
 	{
 		"city": "Albany",
@@ -4299,8 +4299,8 @@
 		"landarea_km2_2020": 55.4,
 		"density_mi2_2020": 4637,
 		"density_km2_2020": 1790,
-		"location_lat": 42.67,
-		"location_lng": -73.8
+		"lat": 42.67,
+		"lon": -73.8
 	},
 	{
 		"city": "Yuma",
@@ -4312,8 +4312,8 @@
 		"landarea_km2_2020": 312.6,
 		"density_mi2_2020": 792,
 		"density_km2_2020": 306,
-		"location_lat": 32.52,
-		"location_lng": -114.52
+		"lat": 32.52,
+		"lon": -114.52
 	},
 	{
 		"city": "New Bedford",
@@ -4325,8 +4325,8 @@
 		"landarea_km2_2020": 51.8,
 		"density_mi2_2020": 5054,
 		"density_km2_2020": 1951,
-		"location_lat": 41.66,
-		"location_lng": -70.94
+		"lat": 41.66,
+		"lon": -70.94
 	},
 	{
 		"city": "Suffolk",
@@ -4338,8 +4338,8 @@
 		"landarea_km2_2020": 1033.9,
 		"density_mi2_2020": 236,
 		"density_km2_2020": 91,
-		"location_lat": 36.7,
-		"location_lng": -76.63
+		"lat": 36.7,
+		"lon": -76.63
 	},
 	{
 		"city": "Hesperia",
@@ -4351,8 +4351,8 @@
 		"landarea_km2_2020": 188.3,
 		"density_mi2_2020": 1373,
 		"density_km2_2020": 530,
-		"location_lat": 34.4,
-		"location_lng": -117.32
+		"lat": 34.4,
+		"lon": -117.32
 	},
 	{
 		"city": "Davenport",
@@ -4364,7 +4364,7 @@
 		"landarea_km2_2020": 165.2,
 		"density_mi2_2020": 1594,
 		"density_km2_2020": 615,
-		"location_lat": 41.56,
-		"location_lng": -90.6
+		"lat": 41.56,
+		"lon": -90.6
 	}
 ]
