@@ -1,9 +1,8 @@
 'use strict';
-/*global L:readonly*/
 
 import init from './assets/js/init.js';
 
-const [map, mapHUD] = await init();
+const [map, mapHUD] = init();
 
 const resizeDiv = document.querySelector('#resize-divider');
 const mapCont = document.querySelector('#map-container');
