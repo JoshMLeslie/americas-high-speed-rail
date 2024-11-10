@@ -3,16 +3,14 @@
 
 import { bindRegionButtonsToMap, setupBoundaryButtons } from './bind-btns.js';
 import {
-	HIDE_SOFT_REGION,
 	INIT_ZOOM_LEVEL,
-	SHOW_SOFT_REGION,
 	ZOOM_LEVEL
 } from './const/index.js';
 import abbreviatedStateNames from './const/usa-states/abbreviated-state-names.mjs';
 import abbreviatedStateToName from './const/usa-states/abbreviated-state-to-name.mjs';
 import coords from './coords.js';
 import genCountyHeatmap from './county-heatmap.js';
-import { drawRegion } from './draw-region.js';
+import { drawRegion, initSoftRegionActors } from './draw-region.js';
 import { eHIDE_CITY_LABELS, eSHOW_CITY_LABELS } from './events.js';
 import initAddressLookup from './interactions/address-lookup.js';
 import initPingCoord from './interactions/ping-coord.js';
@@ -27,7 +25,7 @@ const simpleDataCache = {
 	countyHeatmap: null,
 };
 
-const resetMapHUDZoom = mapHUD => {
+const resetMapHUDZoom = (mapHUD) => {
 	/** @type {DOMRect} */
 	const mapHudBounds = mapHUD.getContainer().getBoundingClientRect();
 	if (mapHudBounds.height <= 300 || mapHudBounds.width <= 300) {
@@ -142,59 +140,16 @@ const initSupportDialog = () => {
 	}
 };
 
-const initSoftRegions = async map => {
-	document.querySelector('#show-soft-regions').addEventListener('change', e => {
-		if (!e.target.checked) {
-			Object.values(softRegions).forEach(region => {
-				map.removeLayer(region);
-			});
-		}
-	});
-
-	document.addEventListener(SHOW_SOFT_REGION, ({detail}) => {
-		const softRegion = softRegions[detail];
-		if (softRegion) {
-			softRegion.addTo(map);
-		} else {
-			throw ReferenceError(`soft region DNE for '${detail}'`);
-		}
-	});
-	document.addEventListener(HIDE_SOFT_REGION, ({detail}) => {
-		const softRegion = softRegions[detail];
-		if (map.hasLayer(softRegion)) {
-			if (softRegion) {
-				softRegion.removeFrom(map);
-			} else {
-				throw ReferenceError(`soft region DNE for '${detail}'`);
-			}
-		}
-	});
-
-	const softRegions = {};
-	const data = await fetchJSON('./assets/js/zones/soft-regions.json');
-	// todo figure out why L.geoJson(d) won't render
-	data.features.forEach(f => {
-		if (!f.geometry.coordinates[0].length) {
-			return;
-		}
-		const poly = L.polygon(f.geometry.coordinates[0], {
-			interactive: true,
-		});
-		poly.bindTooltip(`${f.properties.title} region`);
-		softRegions[f.properties.region] = poly;
-	});
-};
-
 /** data from https://gadm.org/download_country.html */
-const loadGeojsonBounds = country => async useLayer => {
+const loadGeojsonBounds = (country) => async (useLayer) => {
 	const path = `./assets/js/geojson/${country}-state-bounds_${useLayer}.json`;
 	return fetchJSON(path)
-		.then(d =>
+		.then((d) =>
 			L.geoJson(d, {
 				style: () => ({opacity: 0.5, weight: 2, fill: false}),
 			})
 		)
-		.catch(e => console.warn(e));
+		.catch((e) => console.warn(e));
 };
 function initBoundaryButtons(map) {
 	setupBoundaryButtons(map, {
@@ -219,11 +174,11 @@ const initMapHUDViewbox = (map, mapHUD) => {
 	viewBoxBackground.addTo(mapHUD);
 	viewBox.addTo(mapHUD);
 
-	viewBox.on('dragend', v => {
+	viewBox.on('dragend', (v) => {
 		const draggedTo = v.target.getCenter();
 		map.setView(draggedTo);
 	});
-	viewBox.on('zoom', v => {
+	viewBox.on('zoom', (v) => {
 		map.setZoom(v.zoom);
 	});
 
@@ -236,7 +191,7 @@ const initMapHUDViewbox = (map, mapHUD) => {
 	map.on('moveend', drawViewBox);
 	map.on('zoomend', drawViewBox);
 
-	mapHUD.on('resize', e => {
+	mapHUD.on('resize', (e) => {
 		resetMapHUDZoom(e.sourceTarget);
 		setTimeout(drawViewBox);
 	});
@@ -250,7 +205,7 @@ const cleanupMeasurement = () => {
 		lastMeasurementLine = null;
 	}
 	if (distancePointers) {
-		distancePointers.forEach(dp => dp.remove());
+		distancePointers.forEach((dp) => dp.remove());
 		distancePointers = [];
 	}
 };
@@ -283,7 +238,7 @@ const measurePointToPoint = (map, useLatLng) => {
  * +alt => measure
  * +ctrl => copy latlng to clipboard
  */
-const configContextMenu = map => {
+const configContextMenu = (map) => {
 	map.on('click', () => {
 		cleanupMeasurement();
 	});
@@ -420,7 +375,7 @@ function setStateSelector(states) {
 	const stateSelector = document.querySelector('#state-route-selector');
 	stateSelector.innerHTML = '';
 
-	states.forEach(name => {
+	states.forEach((name) => {
 		const option = document.createElement('option');
 		option.value = name;
 		option.textContent = name;
@@ -438,7 +393,7 @@ function initStateRoutes(map) {
 	setStateSelector(abbreviatedStateNames);
 	stateSelector.value = selectedStateAbrv;
 
-	countrySelector.addEventListener('change', e => {
+	countrySelector.addEventListener('change', (e) => {
 		selectedCountry = e.target.value;
 		switch (selectedCountry) {
 			case 'USA':
@@ -446,7 +401,7 @@ function initStateRoutes(map) {
 				break;
 		}
 	});
-	stateSelector.addEventListener('change', e => {
+	stateSelector.addEventListener('change', (e) => {
 		selectedStateAbrv = e.target.value;
 	});
 
@@ -457,8 +412,8 @@ function initStateRoutes(map) {
 			selectedCountry === 'USA' &&
 			['CT', 'PA', 'NY'].includes(selectedStateAbrv)
 		) {
-			stateZone = ZONE_NE.filter(route =>
-				route.some(el => el.state === selectedStateName)
+			stateZone = ZONE_NE.filter((route) =>
+				route.some((el) => el.state === selectedStateName)
 			);
 			console.log(stateZone);
 		} else {
@@ -481,13 +436,13 @@ function initServiceWorker() {
 		if ('serviceWorker' in navigator) {
 			navigator.serviceWorker
 				.register('/assets/js/service-worker/service-worker.js')
-				.then(registration => {
+				.then((registration) => {
 					console.log(
 						'Service Worker registered with scope:',
 						registration.scope
 					);
 				})
-				.catch(error => {
+				.catch((error) => {
 					console.error('Service Worker registration failed:', error);
 				});
 		} else {
@@ -511,7 +466,7 @@ function initSupportFunctions(map) {
 	initCountyHeatmap(map);
 	initMajorCities(map);
 	initPingCoord(map);
-	initSoftRegions(map);
+	initSoftRegionActors(map);
 	initStateRoutes(map);
 	initSupportDialog();
 	// addLayerControl(map);

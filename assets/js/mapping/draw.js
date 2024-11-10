@@ -1,4 +1,5 @@
 'use strict';
+/* global concaveman:readonly */
 
 import { HIDE_CITY_LABELS, SHOW_CITY_LABELS } from '../const/index.js';
 
@@ -57,7 +58,7 @@ export const drawMarker = (map, coord, name, markerOpts = {}) => {
  * @param {L.FeatureGroup} groupToBindTooltip
  * @param {'Section' | 'Corridor'} segmentType
  * @param {'left' | 'right'} direction
- * @returns {{distKm: number; distMi: number}}
+ * @returns number - km
  */
 const drawRouteTooltip = (
 	{distM = 0, distKm = 0},
@@ -92,7 +93,7 @@ const drawRouteTooltip = (
 	tooltipContainer.appendChild(costPerKmInfo);
 	groupToBindTooltip.bindTooltip(tooltipContainer, {direction});
 
-	return {distKm: useDistKm, distMi};
+	return useDistKm;
 };
 
 export const drawPolyline = (map, coords, opts) => {
@@ -105,20 +106,20 @@ export const drawPolyline = (map, coords, opts) => {
 		weight: 10,
 	});
 
-	const {distKm, distMi} = drawRouteTooltip(
+	const distKm = drawRouteTooltip(
 		{distM: map.distance(...coords)},
 		polyPadding
 	);
 
-	return [poly, polyPadding, distKm, distMi];
+	return [poly, polyPadding, distKm];
 };
 
 export const drawRoute = (map, route, coords) => {
 	const lineGroup = L.featureGroup([]);
 	const paddingGroup = L.featureGroup([]);
 	const markerGroup = L.featureGroup([]);
+	const allMarkers = new Set();
 	let totalDistKm = 0;
-	let totalDistMi = 0;
 
 	for (let aIdx = 0, bIdx = 1; bIdx < route.length; aIdx++, bIdx++) {
 		const a = route[aIdx];
@@ -157,26 +158,23 @@ export const drawRoute = (map, route, coords) => {
 		if (a.weight && b.weight) {
 			opts.weight = Math.min(a.weight, b.weight);
 		}
-
-		const [line, padding, distKm, distMi] = drawPolyline(
-			map,
-			[aCoord, bCoord],
-			opts
-		);
-
+		const [line, padding, distKm] = drawPolyline(map, [aCoord, bCoord], opts);
 		totalDistKm += distKm;
-		totalDistMi += distMi;
 
 		// TODO for route wiggling purposes: city.bypass ? ...
 		const markers = [
 			drawMarker(map, aCoord, a.city),
 			drawMarker(map, bCoord, b.city),
 		];
+		allMarkers.add(aCoord);
+		allMarkers.add(bCoord);
 
 		lineGroup.addLayer(line);
 		paddingGroup.addLayer(padding);
 		markerGroup.addLayer(L.layerGroup(markers));
 	}
+
+	/** @type {L.featureGroup} */
 	const routeGroup = L.featureGroup([lineGroup, paddingGroup, markerGroup]);
 
 	drawRouteTooltip({distKm: totalDistKm}, routeGroup, 'Corridor', 'right');
@@ -190,24 +188,28 @@ export const drawRoute = (map, route, coords) => {
 		paddingGroup.setStyle({opacity: 0.2});
 	});
 
-	return routeGroup;
+	return [routeGroup, allMarkers];
 };
 
 /**
  * @param {Zone} zone
  * @param {COORDS} coords
- * @returns {L.layerGroup} LayerGroup
+ * @returns {L.featureGroup}
  */
 export const drawZone = (map, zone, coords) => {
-	const routes = [];
+	const zoneData = L.featureGroup();
+	let allMarkers = new Set();
 	for (const route of zone) {
 		if (route.length === 1) {
 			console.warn('Isolated node in route', ...route);
 		} else {
-			routes.push(drawRoute(map, route, coords));
+			const [routeGroup, routeMarkers] = drawRoute(map, route, coords);
+			allMarkers = allMarkers.union(routeMarkers);
+			zoneData.addLayer(routeGroup);
 		}
 	}
-	return L.layerGroup(routes);
+	// TODO padding - complicated
+	const convexHullCoords = concaveman(Array.from(allMarkers), Infinity);
+	const zoneOutline = L.polygon(convexHullCoords, {color: 'red'});
+	return [zoneData, zoneOutline];
 };
-
-export const drawRegion = () => {};
