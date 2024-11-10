@@ -1,7 +1,5 @@
 'use strict';
-/* global L:readonly */
-
-import { ZOOM_LEVEL } from './const/const.js';
+import { ZOOM_LEVEL } from './const/index.js';
 import { drawRegion } from './draw-region.js';
 import ZONE_CENTRAL from './zones/central.js';
 import ZONE_G_LAKES from './zones/great-lakes.js';

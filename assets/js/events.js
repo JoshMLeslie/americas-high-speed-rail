@@ -3,7 +3,7 @@ import {
 	HIDE_SOFT_REGION,
 	SHOW_CITY_LABELS,
 	SHOW_SOFT_REGION,
-} from './const/const.js';
+} from './const/index.js';
 
 export const eSHOW_CITY_LABELS = new Event(SHOW_CITY_LABELS);
 export const eHIDE_CITY_LABELS = new Event(HIDE_CITY_LABELS);

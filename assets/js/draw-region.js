@@ -1,4 +1,4 @@
-import { ZOOM_LEVEL } from './const/const.js';
+import { ZOOM_LEVEL } from './const/index.js';
 import COORDS from './coords.js';
 import { eHIDE_SOFT_REGION, eSHOW_SOFT_REGION } from './events.js';
 import { drawZone } from './mapping/draw.js';

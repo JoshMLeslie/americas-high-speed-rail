@@ -5,10 +5,9 @@ import { bindRegionButtonsToMap, setupBoundaryButtons } from './bind-btns.js';
 import {
 	HIDE_SOFT_REGION,
 	INIT_ZOOM_LEVEL,
-	PROD_CENTER,
 	SHOW_SOFT_REGION,
-	ZOOM_LEVEL,
-} from './const/const.js';
+	ZOOM_LEVEL
+} from './const/index.js';
 import abbreviatedStateNames from './const/usa-states/abbreviated-state-names.mjs';
 import abbreviatedStateToName from './const/usa-states/abbreviated-state-to-name.mjs';
 import coords from './coords.js';
@@ -52,7 +51,7 @@ const initMaps = () => {
 	};
 	if (isProd) {
 		map = L.map('map', {
-			center: PROD_CENTER,
+			center: CENTERS.AMERICAS,
 			zoom: INIT_ZOOM_LEVEL,
 			...mapOpts,
 		});
@@ -74,7 +73,7 @@ const initMaps = () => {
 
 	const mapHUD = L.map('hud-map', {
 		keyboard: false,
-		center: PROD_CENTER,
+		center: CENTERS.AMERICAS_ALT,
 		zoom: 2,
 		// NO ZOOM! ONLY LOOK!
 		zoomControl: false,

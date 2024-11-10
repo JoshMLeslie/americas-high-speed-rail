@@ -9,7 +9,8 @@
 			type="image/x-icon"
 			href="./assets/img/icon/bullet-train.png"
 		/>
-		<link rel="stylesheet" href="./assets/css/map-style.css" />
+		<link rel="stylesheet" href="./assets/css/styles.css" />
+		<link rel="stylesheet" href="./assets/css/map-index.css" />
 	</head>
 
 	<body>
@@ -91,11 +92,9 @@
 						</div>
 						<hr class="only-dev" />
 						<div>
-							<div style="display: flex; justify-content: space-between">
-								<h3>Highlight boundaries</h3>
-								<label>Zoom for higher resolutions</label>
-							</div>
-							<div>
+							<h3>Highlight boundaries</h3>
+							<span>Zoom for higher resolution for 'Town'.</span>
+							<div class="row-input">
 								<label for="max-boundary-resolution"
 									>Set maximum boundary resolution</label
 								>
@@ -105,37 +104,44 @@
 									<option value="2">Town</option>
 								</select>
 							</div>
-							<button class="region-btn" id="highlight-boundary-canada">
-								Canada
-							</button>
-							<button class="region-btn" id="highlight-boundary-usa">
-								USA
-							</button>
-							<button class="region-btn" id="highlight-boundary-mexico">
-								Mexico
-							</button>
-							<button disabled class="region-btn" id="highlight-boundary-ca">
-								Central America
-							</button>
-							<button disabled class="region-btn" id="highlight-boundary-sa">
-								South America
-							</button>
+							<div style="display: flex; gap: 8px">
+
+								<button class="region-btn" id="highlight-boundary-canada">
+									Canada
+								</button>
+								<button class="region-btn" id="highlight-boundary-usa">
+									USA
+								</button>
+								<button class="region-btn" id="highlight-boundary-mexico">
+									Mexico
+								</button>
+								<button disabled class="region-btn" id="highlight-boundary-ca">
+									Central America
+								</button>
+								<button disabled class="region-btn" id="highlight-boundary-sa">
+									South America
+								</button>
+							</div>
 						</div>
 						<hr />
 						<h3>Show state routes</h3>
 
 						<div id="region-selection-container">
 							<div id="state-selector-container">
-								<label for="country-route-selector">Select a Country:</label>
-								<select id="country-route-selector">
-									<option>USA</option>
-									<option disabled>Canada</option>
-									<option disabled>Mexico</option>
-									<option disabled>Central America</option>
-									<option disabled>South America</option>
-								</select>
-								<label for="state-route-selector">Select a State:</label>
-								<select id="state-route-selector"></select>
+								<div class="row-input">
+									<label for="country-route-selector">Select a Country:</label>
+									<select id="country-route-selector">
+										<option>USA</option>
+										<option disabled>Canada</option>
+										<option disabled>Mexico</option>
+										<option disabled>Central America</option>
+										<option disabled>South America</option>
+									</select>
+								</div>
+								<div class="row-input">
+									<label for="state-route-selector">Select a State:</label>
+									<select id="state-route-selector"></select>
+								</div>
 								<button id="state-route-show">Show Route</button>
 							</div>
 							<hr />

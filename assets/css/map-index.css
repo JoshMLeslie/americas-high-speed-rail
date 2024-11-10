@@ -61,7 +61,7 @@ hr {
 
 #hud-map {
 	border-bottom: 2px solid black;
-	min-height: 200px;
+	height: 500px;
 }
 
 #hud-map-util {
@@ -255,6 +255,10 @@ hr {
 	padding: 8px 16px;
 }
 
+#state-selector-container {
+	width: 100%;
+}
+
 /* CLASSES */
 .hidden {
 	display: none !important;
@@ -284,7 +288,7 @@ hr {
 }
 
 .input-set button {
- padding: 4px 8px;
+	padding: 4px 8px;
 }
 
 .input-actions-wrapper {
@@ -295,6 +299,12 @@ hr {
 .input-actions {
 	display: flex;
 	gap: 8px;
+}
+
+.row-input {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 8px;
 }
 
 @container (max-width: 320px) {
