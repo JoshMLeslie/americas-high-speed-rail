@@ -166,7 +166,7 @@ hr {
 
 #support-dialog {
 	position: relative;
-	height: 200px;
+	height: 300px;
 	width: 400px;
 	background-color: #f5f5f5;
 	z-index: 1000;
@@ -184,6 +184,11 @@ hr {
 
 #support-dialog-content {
 	height: 100%;
+}
+
+#support-dialog footer {
+	position: absolute;
+	bottom: 8px;
 }
 
 #support-dialog header {

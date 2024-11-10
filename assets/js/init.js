@@ -38,12 +38,13 @@ const resetMapHUDZoom = mapHUD => {
 };
 
 /**
- * @returns [L.Map, L.Map] - base map and HUD map
+ * @returns {[L.Map, L.Map]} - base map and HUD map
  */
 const initMaps = () => {
 	const isProd = !/localhost|127.0.0.1/.test(location.href);
 	document.querySelector('body').classList.add(isProd ? 'prod' : 'dev');
 
+	/** @type {L.Map} */
 	let map;
 	const mapOpts = {
 		wasdKeyboard: true,
