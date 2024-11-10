@@ -10,6 +10,9 @@ button {
 	margin: 0 auto;
 	padding: 16px 32px;
 }
+#working-docs div:not(:first-child) {
+	margin-top: 8px;
+}
 .working-doc-block {
 	display: flex;
 	flex-direction: column;
